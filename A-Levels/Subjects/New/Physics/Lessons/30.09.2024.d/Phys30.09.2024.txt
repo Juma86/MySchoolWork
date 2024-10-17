@@ -1,0 +1,100 @@
+====================================================================================================
+| 30.09.2024 | Lesson - Physics - Intro to gravitational fields                         [COMPLETE] |
+====================================================================================================
+|            |
+| Lesson     |	::
+|            |
+|            |		1) What I Think -> Gravity is a force that draws masses together
+|            |			it gets weaker exponentially as your distance from the mass increases
+|            |
+|            |		-- Gravity has an inverse square relationship, as opposed to the linear
+|            |			relationship displayed by F = mg
+|            |
+|            |		-- The strength of a gravitational field g on a small mass m is the force
+|            |			per unit mass :: g = F/m
+|            |
+|            |		-- Where F is the gravitational force acting on the mass m
+|            |
+|            |		2) a) i) 3.5 * 9.5 = 33.25
+|            |		     ii) 1600
+|            |		   b) i) 16
+|            |               ii) 4
+|            |		   c) i) 
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

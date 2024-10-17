@@ -1,0 +1,58 @@
+==================================================================================================================================================================================
+| 04.04.2024 | Resistivity                                                                                                                                           [INCOPLETE] |
+==================================================================================================================================================================================
+|            |
+|Explanation | ::
+|            |		All materials have a resistance to the flow of charge.
+|            |		As free electrons flow through a metal wire, they will collide with ions which get in their way
+|            |		As a result they will transfer anywhere from just a small amount to all of their
+|            |			- kinetic energy into the ion which is what causes electrical heating
+|            |
+|            |		Since electrons flowing through a wire are current, the ions stopping them are resistance.
+|            |		The resistance depends on the length of the piece of wire,
+|            |			- the cross-sectional area through which current is flowing and
+|            |			- the resistivity of the material
+|            |
+|            |		The resistivity equation shows that the longer the wire the larger the resistance and
+|            |			- the thicker the wire, the smaller the resistance
+|            |			- doubling the length of a wire will double the resistance
+|            |			- doubling the cross-sectional area of a wire will halve the resistance
+|            |
+|            |		Resistivity is a property that describes the extent to which
+|            |			- a metal opposes the flow of electric current through it
+|            |
+|            |		Resistivity if a property of the metal and is dependent on temperature
+|            |
+|            |		The higher the resistivity of a metal the higher it's resistance
+|            |
+|            |		That is why wires are usually made of copper due to it's low resistivity at room temperatore
+|            |
+|            |		Insulators will have a very high resistivity that allow nearly no current to flow thorugh them
+|            |
+| Examples   | ::
+|            |
+|            |		there are 2 metal cylinders: 
+|            |			A => diamater 5mm , length 8mm , copper    -- resistivity = 1.7 * 10^-8
+|            |			B => diameter 10mm, length 16mm, aluminium -- resistivity = 2.6 * 10^-8
+|            |
+|            |			Which will be the better conductor?
+|            |
+|            |		Aluminum Cylinder has under double the resistivity and double the length but also double the radius
+|            |			Cross-sectional area will be 4x the copper for aluminum
+|            |			Length is double ?=> cross-sectional area is effectively 2x
+|            |			?=> resistivity would have to be over 3.4*10^-8 on aluminum for it to be worse than copper with the dimensions listed
+|            |		?=> Aluminum would be the better conductor here.
+|            |
+| Equations  | ::
+|            |
+|            |		R = (rho)L/A WHERE
+|            |			R     = resistance in ohms (capital omega) &
+|            |			(rho) = resistivity in ohm-metres (capital omega, m)&
+|            |			L is length in metres (m) &
+|            |			A is cross-sectional area in m^2
+|            |
+| Advice     | ::
+|            |
+|            |		You will never need to memorise the resistivity of any material.
+|            |
+|            |

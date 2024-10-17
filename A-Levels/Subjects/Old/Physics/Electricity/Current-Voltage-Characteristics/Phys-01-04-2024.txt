@@ -1,0 +1,102 @@
+================================================================================================================================================================================
+| 01.04.2024 | Current-Voltage Characteristics                                                                                                                    [INCOMPLETE] |
+================================================================================================================================================================================
+|            |
+|Explanation | ::
+|            |				[[[ Ohm's Law ]]]
+|            |		Ohm's Law states that for a conductor at a constant temoe==perature, the current through it is proportional
+|            |		to the potential difference across it
+|            |
+|            |		Constant temperature implies constant resistance
+|            |
+|            |		The gradient of a graph of current against potential difference is the
+|            |		reciprocal of the circuit's resistance
+|            |
+|            |		An electrical component follows Ohm's Law if it's graph of current against potential difference is a
+|            |		line that passes through the origin
+|            |			-- A filament lamp does NOT obey Ohm's Law.
+|            |
+| Exanmples  | ::
+|            |
+|            |		Picture a graph of current against potential difference where the gradient
+|            |		begins with a positive constant gradient and then via a curve, transitions to a near vertical 
+|            |
+|            |			How would you describe the gradient of the graph of resistance against potential difference? =>
+|            |				The graph of resistance would be a constant line of gradient 0 until the transition occurs
+|            |				where the gradient would then decrease toward negative vertical via a curve.
+|            |
+|            |		As the potential difference in a component increases the current must also increase (according to ohms law).
+|            |		the rate at which current will increase along with potential diffeence is different for different electrical
+|            |		compnents and can be sen using a I-V graph.
+|            |
+|            |			for a resistor this relationship is constant and positive
+|            |			for a semiconductor diode this relationship is 0 when P.D is negative but then curves positive as P.D increases above 0
+|            |			for a filament lamp this gradient represents a negative cubic graph rotated clockwise by 90 degrees
+|            |
+| Questions  | ::
+|            |
+|            |		A graph represents the IV graph of 2 electrical components:
+|            |			X => A constant positive gradient that passes through the origin
+|            |			Y => A positive curve that starts at the origin and tends toward infinity
+|            |
+|            |		Which statement is true?
+|            |			--	A => The resistance of X increases as the current increases
+|            |			--	B => At 2V, the resistance of X is half the resistance of Y
+|            |			--	C => Y is a semiconductor-diode and X is a resistor
+|            |			--	D => X is a resistor and Y is a filament lamp
+|            |
+|            |			..	The graph is of current *against* potential difference ?=> !A
+|            |			..	At 2V X has current .5A and Y has current 0, not .25A ?=> !B
+|            |			..	Y follows the curve of a semiconductor-diode & X follows that of a resistor ?=> C
+|            |			..	A filament lamp would have a high positive gradient at the origin, Y's gradient is visibly 0. ?=> !D__
+|            |
+|            |			?=> the answer is C.
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

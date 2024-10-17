@@ -1,0 +1,39 @@
+====================================================================================================
+| 17.06.2024 | Physics - Lesson - Problems                                              [COMPLETE] |
+====================================================================================================
+|            |
+|Definitions |	::
+|            |
+|            |		Big Dipper ::
+|            |			At the bottom of a big dipper you will begin to be pushed into
+|            |			your seat, the opposite for as you approach it
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+| Equations  |	::
+|            |
+|            |		m * g - S = m * v^2 / r			# [ mg-S = mv^2 /r ]
+|            |			where m = mass
+|            |			where g = gravity
+|            |			where S = force onto the vehicle from the road
+|            |			where v = velocity of car
+|            |			where r = radius of curvature of the hill
+|            |
+|            |		m * g + R = m * v^2 / r			# [ mg+R = mv^2 /r ]
+|            |			where m = mass
+|            |			where g = gravity
+|            |			where R = reaction from wheel on object
+|            |			where v = velocity
+|            |			where r = radius of wheel
+|            |
+====================================================================================================

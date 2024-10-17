@@ -1,0 +1,250 @@
+====================================================================================================
+| 11.09.2024 | Revision - Thermal Physics                                             [INCOMPLETE] |
+====================================================================================================
+|            |
+|Thermal Ener-
+|gy Transfer |	::
+|            |
+|            |		Internal energy is the summation of all randomly distributed energies
+|            |		within a system in potential or kinetic form.
+|            |
+|            |		There are 2 ways to increase the internal energy of a system:
+|            |			. Do work on the system to transfer energy to it
+|            |			. Increase the temperature of the system
+|            |
+|            |		When the state of a substance is changed, it's internal energy also
+|            |		changes, this is because the potential energy of the system changes while
+|            |		the kinetic energy remains constant. This can be demonstrated by the
+|            |		measurement of water's temperature as it boils:
+|            |			. The temperature increases up until 100 deg-celcius, after which
+|            |				the energy gained through heating the water is no longer
+|            |				used to increase the themperature (and therefore kinetic
+|            |				energy), but instead is used to break the bonds between
+|            |				water molecules so it can change state to water vapour,
+|            |				and so potential energy is increased.
+|            |
+|            |		You can measure the amount of energy required to change the temperature
+|            |		of a substance using the following formula :: [Q = mc (delta {theta})]
+|            |			Where:	Q is energy required
+|            |			      	m is the mass
+|            |				c is the specific heat capacity
+|            |				(delta {theta}) is the change in temperature
+|            |
+|            |		The specific heat capacity of a substance is the amount of energy
+|            |		required to increase the temperature of 1kg of a substance by 1
+|            |		deg-celcius / 1 deg-kelvin without changing it's state
+|            |
+|            |		You can measure the quantity of energy needed to change the state of a
+|            |		substance using the following formula: Q = ml
+|            |			Where:	Q is energy required
+|            |				m is mass
+|            |				l is the specific latent heat
+|            |
+|            |		The specific latent heat of a substance is the amount of energy required
+|            |		to change the state of 1kg of material without changing it's temperature.
+|            |		there are two types of specific latent heat: the specific latent heat of
+|            |		fusion (when solid changes to liquid) and specific latent heat of
+|            |		vaporisation (when liquid changes to gas).
+|            |
+|            |		NOTE :: You will need to be able to do calculations using the above formulae
+|            |				and also understand continuous-flow questions
+|            |
+|            |
+|Ideal Gasses|	::
+|            |
+|            |		The gas laws describe the experimental relationship between pressure (p),
+|            |		volume (v), and temperature (T) for a mixed mass of gas. They are
+|            |		empirical in nature, meaning that they are not based on theory but arose
+|            |		from observation and experimental evidence. The 3 gas laws you need to be
+|            |		aware of are the following:
+|            |			. Boyle's Law - When temperature is constant, pressure and volume
+|            |			  are inversely proportional.
+|            |
+|            |			. Charle's Law - When pressure is constant, volume is directly
+|            |			  proportional to absolute temperature.
+|            |
+|            |			. The pressure Law - When volume is constant, pressure is
+|            |			  directly proportional to absolute temperature.
+|            |
+|            |		The absolute scale for temperature is the kelvin scale, where each
+|            |		temperature unit is the same as the celcius scale but o degrees kelvin
+|            |		is absolute 0, the conversion between kelvin and celcius is the following
+|            |		formula: K = C + 273.15 (typically simplifiewd to K = C + 273 in A-level)
+|            |
+|            |		Absolute zero (-273 degrees C), also known as 0 degrees K, is the lowest
+|            |		possible temperature, and the temperature at which particles will have
+|            |		no vibrational / kinetic energy and the volume and pressure of a gas are
+|            |		zero.
+|            |
+|            |		All 3 of the gas law formulae can be combined into 1 formula:
+|            |			(p*V)/T = k, where the constant k is dependent on the amount of
+|            |		gas used in moles, therefore you can rewrite the above equation to get:
+|            |			pV/T=nR, where n is the number of moles of gas , and R is the
+|            |		molar gas constant (8.31J mol^-1 K^-1). You can rearrange this formula
+|            |		further to finally end up with:
+|            |			pV = nRT, which is the ideal gas equation.
+|            |				where p -> Pressure                  - Pascals (Pa)
+|            |				where V -> Volume                    - m^3
+|            |				where n -> number of moles           - any number
+|            |				where R -> molar gas constant (8.31) - J mol^-1 K^-1
+|            |				where T -> temperature               - Kelvin (K)
+|            |
+|            |		1 mole of a substance is equal to 6.02 * 10 ^ 23 atoms / molecules
+|            |		so you can convert between the number of moles (n) and the number of
+|            |		molecules(N) by multiplying the number of moles by 6.02 * 10^23,
+|            |		which is defined as the Avogadro constant (N(A)).
+|            |
+|            |		You can substitute in the above equation into the ideal gas equation to
+|            |		get it in terms of molecules rather than moles pV = NRT/(N(A)). You can
+|            |		simplify this further by using the Boltzzman constant (A) which is:
+|            |			R/(N(A)), leading to the equation:
+|            |			pV = NkT
+|            |
+|            |		Molar mass is the mass (in grams) of one mole of a substance and can be
+|            |		found by finding the relative molecular mass, which is (approximately)
+|            |		equal to the sum of the nucleons in a molecule of the substance.
+|            |
+|            |		Work is done on a gas to change it's volume when it is at constant
+|            |		pressure, (this is usually done through the transfer of thermal energy)
+|            |		the value of work done can be calculated using the following formula:
+|            |			Work done = p * (delta{V})
+|            |				where p is the pressure and (delta{V}) is the change in
+|            |				volume
+|            |
+|            |		This is especially useful when working with a graph of pressure against
+|            |		volume, as work done is simply the area under the graph
+|            |
+|            |
+|Molecular ki-
+|netic theory-
+| model      |	::
+|            |
+|            |		Brownian motion is the random motion of larger particles in a fluid
+|            |		caused by collisions with surrounding particles under a microscope.
+|            |		Brownian motion can be observed through looking at smoke particles under
+|            |		a microscope. Brownian motion contributed to the evidence for the
+|            |		existance of atoms and molecules
+|            |
+|            |		You can use a simple molecular model to explain each of the gas laws:
+|            |			Boyle's law:
+|            |				Pressure is inversely proportional to volume at constant
+|            |				temperature. E.g. if you increase the volume of a fixed
+|            |				mass of gas, it's molecules will move further apart so
+|            |				collisions will be less frequent therefore pressure
+|            |				decreases.
+|            |			Charle's law:
+|            |				Volume is directly proportional to temperature at
+|            |				constant pressure. When the temperature of a gas is
+|            |				increased, it's molecules gain kinetic energy meaning
+|            |				they will move more quickly and because pressure is kept
+|            |				constant (therefore frequency of collisions is constant)
+|            |				the molecules move further apart and volume is increased.
+|            |			Pressure law:
+|            |				Pressure is directly proportional to temperature at
+|            |				constant volume. When the temperature of a gas is
+|            |				increased, it's molecules gain kinetic energy meaning
+|            |				they will move more quickly, as volume is constant the
+|            |				frequency of collisions between molecules and their
+|            |				container increases and they collide at higher speeds
+|            |				therefore pressure is increased.
+|            |
+|            |		The above laws are empirical in nature, meaning they are not based on
+|            |		theory but arose from observation and experimental evidence. The kinetic
+|            |		theory model however is the opposite and arose from only theory.
+|            |
+|            |		The kinetic theory model equation relates several features of a fixed
+|            |		mass of gas, including it's pressure, volume and mean kinetic energy.
+|            |		There are several underlying assumptions, which lead to the derivation
+|            |		of this equation, these assumptions and the derivation are outlined
+|            |		below.
+|            |
+|            |		Assumptions:
+|            |			. No intermolecuar forces act on the molecules
+|            |			. The duration of collisions is negligible in comparison to time.
+|            |			  between collisions.
+|            |			. The motion of the molecules follows Newton's laws.
+|            |			. The molecules move in straight lines between collisions.
+|            |
+|            |		Derivation:
+|            |			1. consider a cube with side lengths l, full of gas molecules.
+|            |			   One of these molecules, has a mass m and is travelling towards
+|            |			   the right-most wall of the container, with a velocity u.
+|            |			   Assuming it collides with this wall elastically, it's change
+|            |			   in momentum is mu-(-mu)=2mu.
+|            |			2. Before this molecule can collide with this wall again it must
+|            |			   travel a distance of 2l. Therefore the time between collisions
+|            |			   is t, where t = 2l/u.
+|            |			3. Using these two bits of information we can find the impulse,
+|            |			   which is the rate of change of momentum of the molecule. As
+|            |			   impulse is equal to the force exerted, we can find pressure by
+|            |			   dividing our value of impulse by the area of one wall: l^2.
+|            |				F = 2mu/(2l/u)) = mu^2/l
+|            |				P = mu^2/l/l^2 = mu^2/l^3 = mu^2/V
+|            |			   As shown, the above equation can be further simplified because
+|            |			   l^3 is identical to the cube's volume (V)
+|            |			4. The molecule we have considered is one of many in the cube,
+|            |			   the total pressure of the gas will be the sum of all the
+|            |			   individual pressures caused by each molecule.
+|            |				P = (m((u(1))^2+(u(2))^"+...+(u(n)^2)/V
+|            |			5. Instead of considering all these speeds seperately, we can
+|            |			   define a quantity known as mean square speed, which is exactly
+|            |			   what it sounds like, the mean of the square speeds of the gas
+|            |			   molecules. This quantity is known as (overlined{u^2}), and we
+|            |			   multiply it by N, the number of particles in the gas, to get
+|            |			   an estimate of the sum of the molecules' speeds.
+|            |					P = Nm(overlined{u^2})/V
+|            |			6. The last step is to consider all the directions the molecules
+|            |			   will be moving in. Currently we have only considered one
+|            |			   dimension, however the particles will be moving in all
+|            |			   3 dimensions. Using pythagoras' theorem we can work out the
+|            |			   speed the molecules will be traveling at:
+|            |				
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+

@@ -1,0 +1,103 @@
+====================================================================================================
+| 30.04.2024 | Lesson - Velocity-Time Graphs & Kinematics                             [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) #~[[[ REF ~ 0x0002 ]]]~#
+|            |			a) 2 ms^-2
+|            |			b) 15m
+|            |			c) positive acceleration to decelleration is instant
+|            |
+|            |		2) #~[[[ REF ~ 0x0003 ]]~#
+|            |			a) 0 seconds, 30 seconds, 50 seconds
+|            |			b) area = distance = (1/2)b*h
+|            |				WHERE b = 30 & h = 5 ?=> distance = 75m
+|            |			c) (1/2)( (abs {30 * 5}) + (abs {20 * -4}) ) = (1/2)(150 + 80) = 115m
+|            |			d) (1/2)( 30 * 5 + 20 * -4 ) = (1/2)(150 - 80) = 35m
+|            |
+|            |		3) #~[[[ REF ~ 0x0004 ]]]~#
+|            |			a) 5 * 14 = 70m
+|            |			b) 70 + (abs( {11 * -5}) = 125m
+|            |			c) 125 / 50 = 25/10 = 2.5 ms^-1 (2 s.f.)
+|            |			d) 70 -  55 = 15m
+|            |			e) 15 / 50 = 3/10 = 0.3 ms^-1 (1 s.f.)
+|            |			f) 18 / 5 = 36/10 = 3.6 (2 s.f.)
+|            |
+|            |		4) #~[[[ REF ~ 0x0005 ]]]~#
+|            |			a) #~[[[ REF ~ 0x0006 ]]]~#
+|            |			b) 46.5m
+|            |
+|            |		5) #~[[[ REF ~ 0x0007 ]]]~#
+|            |
+|            |		6) #~[[[ REF ~ 0x0008 ]]]~#
+|            |			a) v = (integrate-dt {4 - 3t^2}) = 4t - t^3
+|            | 
+| Mechanics  |	::
+|            |
+|            |		1) A car moves with constant acceleration
+|            |			When t = 0 it passes a junction, where it's velocity is 8.2 ms^-1
+|            |
+|            |			It passes the next junction 320m away after 24 more seconds
+|            |			Find the car's velocity as it passes the second junction
+|            |
+|            |			u = 8.2, s = 320, t = 24, v = ???
+|            |			?=> S = (1/2)(u + v)t
+|            |			?=> 320 = (1/2)(8.2 + v)24
+|            |			?=> v = 320 / 12 - 8.2
+|            |			?=> v = 18.5 ms^-1
+|            |
+|            |		2) A car decelerates uniformly from 26.3 ms^-1 to 16.2 ms^-1, covering a
+|            |		   distance of 240m
+|            |
+|            |		   Find the deceleration
+|            |
+|            |			
+
+
+
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

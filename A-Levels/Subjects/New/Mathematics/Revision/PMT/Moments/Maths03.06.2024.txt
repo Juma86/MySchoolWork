@@ -1,0 +1,100 @@
+====================================================================================================
+| 03.06.2024 | Revision - Moments                                                     [INCOMPLETE] |
+====================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		The moment of a force is the magnitude of the turning effect the force
+|            |		has on a rigid body, when describing a moment, we must also signify the
+|            |		rotation of the force: anticlockwise or clockwise
+|            |
+|            |		The moment M of a force F against a point P is defined as the
+|            |		perpendicular force against the rigid body at distance D from the point
+|            |		and is described by the formula m=(abs {F})*d
+|            |			where m = moment (Nm)
+|            |			where F = force perpendicular to rigid body (N)
+|            |			where d = distance of force from point (m)
+|            |
+|            |		It is typical to require basic trig' to calculate the perpendicular force
+|            |
+| Examples   |	::
+|            |
+|            |		1) Calculate the moment about P of the force 8N acting on a lamina
+|            |			where the force is acting 137* from coherent parallel to P
+|            |			where the force is 6.2m from P
+|            |
+|            |			to convert the force to a perpendficular we can subtract 90
+|            |			from the 137* to get 47*
+|            |			therefor the perpendicular force is (cos {47})*8
+|            |			the moment is Fd ?=> m = 6.2 * (cos {47}) * 8 =~= 33.8Nm
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

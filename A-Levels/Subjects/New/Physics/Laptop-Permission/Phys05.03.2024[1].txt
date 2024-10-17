@@ -1,0 +1,102 @@
+====================================================================================================
+| 05.03.2024 | Work - Young's Double slit                                               [COMPLETE] |
+====================================================================================================
+|            |
+| Question   |	::
+|            |
+|            |		1) The diagram shows Young's double-slit experiment performed with a
+|            |		   tungsten filament lamp as a light source
+|            |
+|            |					#~[[[ REF-0x00C4 ]]]~#
+|            |
+|            |			a) On the axes in the diagram above, sketch a graph to show how
+|            |			   the intensity varies with position for a monochromatic light
+|            |			   source
+|            |
+|            |					#~[[[ REF-0x00C5 ]]]~#
+|            |
+|            |			b) i) For an interference pattern to be observed the light has
+|            |			      to be emitted by 2 coherent sources
+|            |
+|            |			      Explain what is meant by 2 coherent sources:
+|            |				2 Coherent sources would emit waves of the same wavelength,
+|            |				phase, and rotation
+|            |
+|            |			  ii) Explain how the use of the single slit in the arrangement above
+|            |			      makes the light from the 2 slits sufficiently coherent for
+|            |			      fringes to be observed
+|            |				the single slit ensures that both of the beams of light
+|            |				are coming from the same source, this ensures the same
+|            |				wavelength, frequency, phase and orientation when they
+|            |				interfere
+|            |
+|            |			 iii) In this experiment the light behaves as a wave.
+|            |			      Explain how the bright fringes are formed
+|            |				the bright fringes are where 2 antinodes perfectly
+|            |				constructively interfere
+|            |
+|            |			c) i) A scientist carries out the young double-slit experiment
+|            |			   using a laser that emits violet light of wavelength 405nm. The
+|            |			   speration of the slits is 5.00 * 10^-5m
+|            |
+|            |			      Using a metre ruler the scientist measures the seperation of
+|            |			      two adjacent bright fringes in the central region of the
+|            |			      pattern to be 4mm
+|            |
+|            |			      Calculate the distance between the double slits & the screen
+|            |				
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

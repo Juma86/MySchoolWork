@@ -1,0 +1,75 @@
+================================================================================================================================================================================
+| 01.04.2024 |                                                                                                                                                    [INCOMPLETE] |
+================================================================================================================================================================================
+|            |
+|Explanation | ::
+|            |					[[[   ELECTRO-MOTIVE FORCE ]]]
+|            |		When charge passes through a power supply such as a battery,
+|            |		it gains electrical energy.
+|            |
+|            |		E.M.F is defined as:
+|            |			The amount of chemical energy converted to electrical
+|            |			energy per coulomb of charge when passing through
+|            |			a power supply
+|            |
+|            |		E.M.F is the P.D across a battery's terminals when
+|            |		there is no current flow
+|            |
+|            |		terminal P.D is never E.M.F because batteries have an internal resistance
+|            |
+|            |		The difference between Terminal P.D & E.M.F is called lost volts
+|            |
+|            |		Lost volts is usually represented by a little (v) :: it is defined as:
+|            |			The work done per unit of charge / Coulomb to overcome the
+|            |			internal resistance / resistance inside the battery (when current flows)
+|            |
+|            |		?=> v = (eplsilon) - V = Ir
+|            |
+|            |		WHERE => v         = Lost Volts          (V)
+|            |		         I         = Current             (A)
+|            |		         r         = Internal Resistance (Omega)
+|            |		         (epsilon) = E.M.F               (V)
+|            |                   V         = Terminal P.D        (V)
+|            |
+|            |		?=> (epsilon) = IR + Ir = I(R + r)
+|            |
+|            |		?=> E.M.F can be defined as the total/maximum potential difference of a circuit
+|            |
+|            |					[[[ INTERNAL RESISTANCE ]]]
+|            |		All power supplied will have a quantity of internal resistance
+|            |		between their terminals
+|            |
+|            |		Internal resistance is formally defined as =>
+|            |			The resistance of the materials within a power source
+|            |
+|            |		It is internal resistance that causes the charge circulating to dissipate
+|            |		some electrical energy from the power supply itself
+|            |			-- This is also why a cell may become warm over time
+|            |
+|            |		A cell can be thought of as a source of E.M.F with an internal resistance connected in series
+|            |
+| Examples   | ::
+|            |		1) A battery of E.M.F 7.3V and internal resistance 0.3 ohms is connected
+|            |		   in series with a resistor of resistance 9.5 ohms
+|            |
+|            |			a) Determine the current in the circut =>
+|            |				USING V = I(R + r) : 7.3 = I(9.5+.3) ?=> I = 7.3/9.8
+|            |
+|            |				I = .7448979592 (2 s.f.) = .7A
+|            |
+|            |			b) Determine the lost volts from the battery =>
+|            |				USING v = Ir : v = I(.3) & I = (7.3/9.8) ?=> v = (7.3/9.8).3
+|            |
+|            |				v = .2234693878 (2 s.f.) = .2V
+|            |
+| Equations  | ::
+|            |
+|            |		V = IR                     WHERE V         = potential difference & I         = current & R = resistance
+|            |
+|            |		(epsilon) = I(R + r) = E/Q WHERE (epsilon) = E.M.F                & I         = current &
+|            |		                                 R         = resistance           & r         = internal resistance & E = energy & Q = charge flow
+|            |
+|            |		V = (epsilon) - V = Ir     WHERE V         = potential difference & (epsilon) = E.M.F   &
+|            |		                                 I         = current              & r         = internal resistance
+|            |
+================================================================================================================================================================================

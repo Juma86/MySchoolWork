@@ -1,0 +1,103 @@
+====================================================================================================
+| 26.04.2024 | Lesson - Population and Samples                                        [INCOMPLETE] |
+====================================================================================================
+|            |
+| info       |	::
+|            |
+|            |		A population is the full dataset that is being studied
+|            |		A sample is a subset of the full dataset that is being studied
+|            |		A parameter is a numerical property of a population
+|            |		A statistic is a numerical property of a sample that can be used
+|            |			to infer a paramater for a whole population
+|            |
+|            |		Hand size population:
+|            |			[ 18.3, 16.1, 17.0, 17.0, 18.3, 18.5, 17.5,
+|            |			  16.3, 18.3, 18.9, 16.3, 19.1, 19.0        ]
+|            |
+|            |			(mew) = 17.7(3846154)    (3 s.f.)
+|            |			s.d.  = 1.0(5)(48470286) (3 s.f.)
+|            |
+|            |		The unbiased formula of population standard deviation ::
+|            |			s = (sqrt {(sum-of { x - mean }) / (n-1)})
+|            |
+|            |			s = (sqrt { (sigma) ^2 *n /(n-1) })
+|            |
+|            |		Sampling Methods ::
+|            |
+|            |			There are many methods, 6 are listed.
+|            |
+|            |			Simple random sampling
+|            |			Opportunity   sampling
+|            |			Systematic    sampling
+|            |			Stratified    sampling
+|            |			Quota         sampling
+|            |			Cluster       sampling
+|            |
+|            |			Typically, simple random sampling is the most
+|            |				common and useful but may not be the most practical
+|            |
+|            |			Simple random sampling is assigning a random index to each datum
+|            |			and randomly selecting a set count of indexes
+|            |				mean -> 18.06, s = .80
+|            |				strength: no bias
+|            |				weakness: low accuracy in some cases
+|            |
+|            |			Opportunity (or convenience) sampling is a sample based on what is
+|            |			convenient for the sampler
+|            |				mean -> 17.9, s = 1.36
+|            |				strength: quick & easy
+|            |				weakness: very low accuracy in most cases
+|            |
+|            |			Systematic sampling begin at a specific point in a list &
+|            |			make use of every nth element from the starting point
+|            |			until you have m samples
+|            |				mean -> 18.3, s = .51
+|            |				strength: quick for a machine to compute
+|            |				disadvantage: selection could coincide with a pattern
+|            |
+|            |			Stratified sampling splits the population into categories
+|            |			and n samples are taken from each dependng on their size
+|            |			relatively. e.g. 10 17-y/o's & 5 16-y/o's with 5 samples
+|            |			would mean 2 16-y/o's and 3 17-y/o's as 1/3 are 16, 2/3 are 17
+|            |			which is 1.66... 16-y/o & 3 17-y/o's, round up or down on personal
+|            |			preference to get a sample count
+|            |				mean -> 18.4, s.d. = .86
+|            |				strength: would typically produce a representative sample
+|            |				weakness: may be time-consuming &r expensive
+|            |
+|            |			Quota sampling splits the population into categories and
+|            |			randomly selects n subjects from each category
+|            |				mean -> 17.94, s.d. = 1.24
+|            |				strength: can approximate stratified sampling
+|            |				weakness: can cause bias due to freedom of choice
+|            |
+|            |			Cluster sampling splits a population into (typically
+|            |			naturally occuring) clusters and then randomly selects
+|            |			n samples from those clusters as the group of samples
+|            |				mean ->, 17.75 s.d. = 1.06
+|            |				strength: practical &r cheap
+|            |				weakness: the data may be altered by the conditions
+|            |					caused by sample divider
+|            |
+| Questions  |	::
+|            |
+|            |				#~[[[ TEXTBOOK Pg-494 Q's 4->9 ]]]~#
+|            |		1)
+|            |		   a) Explain why a random sampling method is
+|            |		      not feasible in this situation?
+|            |			indexing all fishes in the north sea is impossible
+|            |
+|            |		   b) State the name of the sampling method used?
+|            |			stratified sampling
+|            |
+|            |		   c) Why might this method be better than an opportunity sample of the
+|            |		      first 20 fish caught?
+|            |				some fish species may be more common and less likely to
+|            |				would adulthood than others so opportunity would fail
+|            |				to represent the data fairly
+|            |
+|            |		2) 
+|            |		   a) Calcuate the variance using the formula: ()
+|            |
+|            |
+====================================================================================================

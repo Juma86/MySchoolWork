@@ -1,0 +1,133 @@
+====================================================================================================
+| 03.05.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) if tan X = -1.2 & 270* <= x <= 360*
+|            |		   find the exact values of sin x & cos x
+|            |
+|            |			toa = o/a = 1.2/1 ?=> h = (sqrt {3.2}) = (sqrt {32}) / 100
+|            |			sin x = -12 * (sqrt {32}) / 1000  ?=> -6(sqrt {61}) / 61
+|            |			cos x = 100 * (sqrt {32}) / 32    ?=>  5(sqrt {61}) / 61
+|            |
+| Lesson     |	::
+|            |
+|            |		1) A coin is tossed 10 times, the random variable X is the number of heads
+|            |		   obtained
+|            |
+|            |			/=================================================================\
+|            |			| x |  0 | 1  | 2   |  3  |  4  |  5   |  6  | 7   | 8  | 9  | 10 |
+|            |			|-----------------------------------------------------------------|
+|            |			| p | 0% | 1% | 4%  | 12% | 21% |  25% | 21% | 12% | 4% | 1% | 0% |
+|            |			\=================================================================/
+|            |
+|Definitions |	::
+|            |
+|            |		Hypothesis Testing:
+|            |			A hypothesis (or significance) test can be used to test if a
+|            |			sample can provide sufficient evidence that a population
+|            |			parameter has changed from a previously known or assumed value
+|            |
+|            |				[[[ Steps for a H test for pop' proportion ]]]
+|            |			1) Define the variable
+|            |			2) State the null and alternative hypothesis and decide on the
+|            |				number of tails
+|            |			3) State the distribution of the test statistic assuming the
+|            |				null hypothesis is true
+|            |			4) calculate the P-Value
+|            |			5) Compare the P-Value to the significance level, if smaller then
+|            |				reject H(0)
+|            |			6) Make a conclusion in context
+|            |
+| Questions  |	::
+|            |
+|            |		It is thought that 8 out of 10 cats prefer whiskas cat food
+|            |		In a recent sample of 100 cats, 70 were found to prefer whiskas
+|            |		Is there evidence that the proportion of cats prefering whiskas
+|            |		has decreased? ?=> No
+|            |
+|            |		Test:
+|            |			1) Variable(s) => p -> chance of prefering whiskas
+|            |			2) N/alt hypos => p is still a half
+|            |
+|            |			Let p be the proportion of cats prefering whiskas
+|            |			Let x be the number of cats in a sample of 100 that prefer whiskas
+|            |
+|            |			H(0): p = .8	as we are specifically testing for a decrease
+|            |			H(1): p < .8	this is a 1-tailed test
+|            |
+|            |			We are working with the assumption that if there has been no
+|            |			change in the proportion then the number of cats prefering
+|            |			whiskas will follow a binomial distribution with p = .8
+|            |
+|            |			if H(0) is true then X ~ B (100, 0.8)
+|            |
+|            |			p-Value -> p(x <= 70) = 0.011248... =~= .011 (3 s.f.)
+|            |
+|            |			Let the significance value S equal 1%
+|            |
+|            |			since p >= S, We have failed to reject H(0)
+|            |
+|            |			We have failed to reject H(0) and so can conclude that there is
+|            |			insufficient evidence at the 1% level for a decrease in the
+|            |			proportion of cat that prefer whiskas
+|            |
+|            |		2) Andrea is the manager of a company which makes mobile phone chargers
+|            |			In the past, she found that 12 in every 100 chargers were faulty
+|            |
+|            |			a) Andrea decides to move the manufacture of chargers to a
+|            |			   different factory
+|            |
+|            |			   Andrea tests 60 of the new chargers and finds that 4 chargers
+|            |			   are faulty 
+|            |
+|            |			   Investigate, at the 10% level of significance, whether the
+|            |			   proportion of faulty chargers has reduced
+|            |
+|            |				Let X be the number of faulty chargers
+|            |				Let P be the proportion of faulty chargers
+|            |
+|            |				H(0) : P = .12
+|            |				H(1) : P < .12 - 1 tailed test
+|            |
+|            |				if H(0) is true, X ~ B(60, .12)
+|            |
+|            |				p-Value = P(X <= 4) = .13880... =~= .139 (3 s.f.)
+|            |
+|            |				p-Value > 10% ?=> Failed to reject H(0)
+|            |
+|            |				There is insufficient evidence that the proportion
+|            |				of faulty chargers has decreased
+|            |
+|            |			b) State, In context, two assumptions that are necessary for the
+|            |			   distribution that you have used in part (a) to be valid
+|            |
+|            |				1) The chance of a charger being faulty is equal for all
+|            |				2) The chance of a charger being faulty is independent
+|            |					of any other charger
+|            |
+|            |		3) A treat for a disease is known the have an 82% success rate,
+|            |		   a doctor devises a new treatment which she believes to be more
+|            |		   effective. She uses the new treatment on a random sample of 50
+|            |		   patients and finds that it is effective in 46 cases
+|            |
+|            |		   Is there evidence to support the doctors belief at the 5% level?
+|            |
+|            |			Let X be the Count of successful cases in a sample of 50
+|            |			Let P be the proportion of successful cases
+|            |
+|            |			H(0) : P = .82
+|            |			H(1) : P > .82 - 1-tailed test
+|            |
+|            |			if H(0) is true, X ~ B(50, .82)
+|            |
+|            |			p-Value = P( X > 46 ) = 1-.9601154.. = .0398846 =~= .039 (3 s.f.)
+|            |
+|            |			.039 < .05, Therefore we can reject H(0)
+|            |
+|            |			There is sufficient evidence to suggest that the proportion
+|            |			of successful treatments would increase at the 5% significance
+|            |			level
+|            |
+====================================================================================================

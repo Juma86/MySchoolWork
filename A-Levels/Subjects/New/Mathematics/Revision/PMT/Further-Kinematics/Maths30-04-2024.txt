@@ -1,0 +1,101 @@
+====================================================================================================
+| 30.04.2024 | Further Kinematics - PMT Spreadsheet                                   [INCOMPLETE] |
+====================================================================================================
+|            |
+| Vectors    |	::
+|            |
+|            |		You can use the vector equivalent of the SUVAT equations to solve problems
+|            |		involving constant acceleration. Velocities, Positions and Accelerations
+|            |		must also be given in vector form
+|            |
+|            |		The Vector SUVAT Equations are the following	::
+|            |			v = u + at
+|            |			r = ut + (1/2)at^2
+|            |		WHERE =>
+|            |			r represents the position vector &
+|            |			v and u represent initial and final velocities; respectively
+|            |
+|            |		if a particle starts at position (r-0) and moves with a constant
+|            |		velocity v then it's position (r) at time t can be expressed as:
+|            |			r = (r-0) + vt
+|            |
+|            |			note: the displacement from the initial position is
+|            |			      signified by (vt)
+|            |
+| Questions  |	::
+|            |
+|            |		1) A particle A starts with position 12i + 12j, the initial velocity
+|            |		   i is j - i ms^-1, the particle also has constant acceleration
+|            |		   2i - 4j ms^-2. Another particle B has initial velocity i ms^-1
+|            |		   with constant acceleration 2j ms^-2, after 3 seconds the 2 particles
+|            |		   Collide: Find the speeds of each particle when they collide and
+|            |		   also the position vector of where the collision takes place.
+|            |
+|            |			A-Velocity = j-i + (2i-4j)*3(seconds) = 5i - 11j
+|            |			           = (sqrt {(5^2) + (-11^2)}) =
+|            |					  (sqrt {146})ms^-1 ||
+|            |					~ 12.1 ms^-1 (3 s.f.)
+|            |
+|            |			B-Velocity = i + (2j)*3(seconds) = i + 6j
+|            |				   = (sqrt {(1^2) + (6^2)}) =
+|            |					  (sqrt {37})ms^-1 ||
+|            |					~ 6.08 ms^-1 (3 s.f.)
+|            |
+|            |			C-Position = (position of A after 3 seconds)
+|            |				   = 
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

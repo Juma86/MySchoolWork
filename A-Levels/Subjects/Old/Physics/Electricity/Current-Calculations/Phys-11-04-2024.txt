@@ -1,0 +1,119 @@
+==========================================================================================================================================
+| 11.04.2024 | Calculating Electrical Current                                                                               [INCOMPLETE] |
+==========================================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		current can also be defined as the charge passing through a circuit per unit time.
+|            |		electrical charge in measured in Coulombs (C)
+|            |
+|            |		Calculating current in a current carrying conductor =>
+|            |			In a conductor, current is due to the movement of charge carriers
+|            |			The current is in the same direction regardless of wether
+|            |				the charge carriers are negative or positive
+|            |
+|            |		Drift speed is the average speed at which charge carriers move through a conductor
+|            |		Current can be defined as the product of:
+|            |			number density (the amount of charge carriers per unit volume) &
+|            |			the cross-sectional area of the conductor                      &
+|            |			the drift speed of the charge carriers                         &
+|            |			the charge of the charge carriers                              .
+|            |
+|            |			
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+| Example    |	::
+|            |
+|            |		1) when will 8mA pass through an electrical circuit?
+|            |			a) when 1J of energy is used by 1C of charge
+|            |			b) when a charge of 4C passes in 500s
+|            |			c) when a charge of 8c passes in 100s
+|            |			d) when a charge of 1C passes in 8s
+|            |
+|            |			I=Q/t ?=>	a =         1,000mA
+|            |					b = 4/500 = 8/1000 = 8mA
+|            |					c = 8/100 = 80mA
+|            |					d = 1/8   = 125mA
+|            |
+|            |				?=> b is the answer.
+|            |
+|            |		2) A copper wire has 9.2 * 10^28 free electrons m^-3 & 3.5A current & 1.5mm^2 cross-sectional area
+|            |			Calculate the average drift speed of the electrons in mms^-1
+|            |
+|            |			Remember - the charge of an electron is 1.60 * 10^-19
+|            |
+|            |			I = Avnq WHERE v = drift speed ?=> v=I/(Anq) = 3.5/(1.5*10^-6 * 9.2 * 10*28 * 1.6* 10^-19)
+|            |				?=> v = 1.6 * 10^-4ms^-1  = 1.6 * 10^-1 mms^-1
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

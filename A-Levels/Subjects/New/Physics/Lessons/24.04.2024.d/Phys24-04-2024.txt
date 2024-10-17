@@ -1,0 +1,98 @@
+====================================================================================================
+| 24.04.2024 | Physics - Double Slit Diffraction                                      [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) Imagine you had 2 speakers playing an identicle note but set a distance
+|            |		   apart, both facing forwards. What would you expect to hear as you
+|            |		   walked from in front of 1 speaker to the other. Why?
+|            |		    -	As you walked from the front of one speaker to the other you would
+|            |		    -	hear the sound get louder and quieter as you crossed them, this is
+|            |		    -	because of 2 source interference where every half wavelength the
+|            |		    -	waves either sum their amplitudes to cause a greater volume
+|            |		    -	or destructively interfere to cause a lesser volume
+|            |
+|            |		2) What is the formula for describing double slit defraction?
+|            |		    -	w = (lambda)D/s WHERE D = Distance && w = diffraction from center
+|            |					   && s = spacing between gaps
+|            |					   && (lambda) = wavelength
+|            |
+| Lesson     |	::
+|            |
+|            |		Effect of gap size => The relative size between the wavelength, (lambda)
+|            |		and the width of gap, b, determines the amount of diffraction
+|            |
+|            |		Diffraction passed object => When a wave meets an object [[[ COMPLETE ]]]
+|            |
+|            |		TV and short radio signals with a wavelength of about 1 metre are too
+|            |		short to diffract below large mountains or hills
+|            |
+|            |		Diffraction of light => If a slit has a small enough gap, light will
+|            |		diffract when shone through it. The pattern created can be projected
+|            |		onto a screen
+|            |
+|            |		W = (lambda) / a * 2D for the width of the central maxima
+|            |
+|            |		for the width of the others take away the 2 to have: W = (lambda) / a * D
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

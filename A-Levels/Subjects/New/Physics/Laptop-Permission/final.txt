@@ -1,0 +1,99 @@
+====================================================================================================
+| 05.03.2024 | Young Slit                                                             [INCOMPLETE] |
+====================================================================================================
+|            |
+| Questions  |	::
+|            |
+|            |		1)
+|            |			a) ~[[[ REF. 0x00CA ]]]~
+|            |
+|            |			b) i)
+|            |				Coherent sources are 2 light sources with the same
+|            |				frequency, rotation & phase difference
+|            |
+|            |			  ii)
+|            |				As the light is coming from the same sources the phase
+|            |				difference remains constant along with the frequency
+|            |				and they should also have mostly the same rotation
+|            |
+|            |			iii)
+|            |				the bright fringes are formed from the light waves
+|            |				cosntructively interfering
+|            |				The bright fringes taper off until the amplitudes
+|            |				of the nodes are summed to cause a final brightness
+|            |				of 0 for that location, the brightness changes and
+|            |				different parts are summed depending on which parts
+|            |				of the wave are superimposing at that position
+|            |
+|            |			c) i)
+|            |				(5.00 * 10^-5) * (.004) / ( 405 * 10 ^ -9 ) = 0.49.. =~= .5m
+|            |
+|            |			  ii)
+|            |				since the wavelength is longer the distance between
+|            |				fringes will also get longer
+|            |
+|            |			 iii)
+|            |				the scientist should move the screen closer to
+|            |				the light source and then use vernier callipers
+|            |				to calculate the result with a higher resolution
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

@@ -1,0 +1,100 @@
+====================================================================================================
+| 02.05.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |				[[[ WHERE * is (degrees) ]]]
+|            |		1) The curve with equation y = sin x*
+|            |		   for -360 <= X <= 360
+|            |
+|            |			a) Point A on the curve has coordinates (a, 0.5)
+|            |			   i) Find the value of a ?=> 30 x -> -210*
+|            |			  ii) Find the value of sin(180* - a*) ?=> 0.5
+|            |			b) Point B on the curve has coordinates (180*, -(3/7)*)
+|            |			   i) Find the exact value of sin( b* - 180* ) ?=> 3/7
+|            |			  ii) Find the exact value of cos( b* ) ?=> -(2*(sqrt {10}))/7 
+|            |
+|            |		-4 = o & 1 = a where abs ?=> o = 4 && h = (sqrt {17})
+|            |		?=> sin = o/h ?=> 4(sqrt {17})/17
+|            |		?=> cos = a/h = -(sqrt {17})/17
+|            |
+| Textbook   |	::
+|            |
+|            |		2) Name the type of sampling found in each situation
+|            |
+|            |			a) [reference book]
+|            |				simple random x Quota
+|            |
+|            |			b) [reference book]
+|            |				quota sampling x Stratified
+|            |
+|            |			c) [reference book]
+|            |				cluster sampling
+|            |
+|            |			d) [reference book]
+|            |				simple random sampling
+|            |
+|            |			e) [reference book]
+|            |				stratified sampling x Systematic
+|            |
+|            |			f) [reference book]
+|            |				opportunity sampling
+|            |
+|            |		3) To find the mean and standard deviation of weights of a breed of cat,
+|            |		   Ben measures a random sample of 20 Cats, the results are summarised as:
+|            |			a) 51/20 = 2.55
+|            |			b) larger
+|            |			c) it most likely is but there is also a possibility of a large
+|            |			   collection of outliers that skew the mean away from the true
+|            |				value
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

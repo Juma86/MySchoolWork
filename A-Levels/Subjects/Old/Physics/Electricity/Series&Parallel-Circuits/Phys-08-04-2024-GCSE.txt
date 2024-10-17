@@ -1,0 +1,45 @@
+==========================================================================================================================================
+| 08.04.2024 | Series&Parallel Circuits                                                                                         [REVISE] |
+==========================================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		Series and parallel circuits are the ways in which a circuit can be laid out.
+|            |			A series circuit is a circuit in which the potential difference is shared evenly
+|            |			amongst all components within the circuit while current remains constant.
+|            |
+|            |			A parallel circuit is a circuit in which the current is shared evenly
+|            |			amongst all components within the circuit while the potential difference remains constant.
+|            |
+|            |			When cells are connected in series their E.M.F's are summed to make the E.M.F of the circuit
+|            |			Whereas, when cells are connected together in parallel their currents are summed to makke up
+|            |				the current of the circuit
+|            |
+|            |			In a series curcuit the sum of all potential differences across the components will
+|            |				equal the terminal potential difference of the power supply.
+|            |
+|            |		The (dis)advantages of series and parallel circuits =>
+|            |			Parallel circuits =>
+|            |				Advantages =>
+|            |					The components can be individually controlled using
+|            |					their own switches
+|            |
+|            |					If one component is to stop working the rest will
+|            |					still be able to function
+|            |
+|            |					The current can split up between each component fractionally,
+|            |					this means the current in each branch will be smaller than the
+|            |					current coming out of the power supply
+|            |
+|            |			Series curcuits =>
+|            |				Advantages =>
+|            |
+|            |		The current in a parallel circuit will not be evenly distributed among branches unless
+|            |		the total resistances of each branch are equal
+|            |
+|            |
+|            |
+|Definitions | ::
+|            |
+|            |		Parallel circuit :[?]: A circuit where two or more components are connected via seperate branches
+==========================================================================================================================================

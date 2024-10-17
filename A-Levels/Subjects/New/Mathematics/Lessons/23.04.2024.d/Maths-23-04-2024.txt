@@ -1,0 +1,58 @@
+====================================================================================================
+| 23.04.2024 | Lesson Work                                                            [INCOMPLETE] |
+====================================================================================================
+|            |
+| Lesson     |	::
+|            |
+|            |		1)
+|            |	
+|            |			6.3 + 2.1 * t = 0
+|            |			t = -3 ?=> there is no direction change within the first 6 seconds
+|            |
+|            |			29.7 - 1.8t = 0
+|            |			t=16.5 ?=> pay attention to times as a change in direction occurs
+|            |
+|            |			a) find the displacement of the particle from P when t = 10
+|            |				-- this is okay as the change on direction occurs
+|            |				   at a higher t value than this
+|            |
+|            |				S = (integrate-dt {6.3  + 2.1t dt} 0 -> 6 ) + 
+|            |				    (integrate-dt {29.7 - 1.8t dt} 6 -> 10) = 136.8 ~ 137m(3 s.f.)
+|            |
+|            |			b) find the maximum displacement of the particle from P
+|            |
+|            |				S = (integrate-dt {6.3  + 2.1t dt} 0 -> 6   ) +
+|            |				    (integrate-dt {29.7 - 1.8t dt} 6 -> 16.5)
+|            |					= 174.8m ~ 175m(3 s.f.)
+|            |
+|            |			c) The displacement of point Q from point P is 90m
+|            |
+|            |				Find the first time when the particle passes Q
+|            |
+|            |				How long does it take for the partile to return to Q
+|            |
+|            |				90 - (integrate-dt {6.3 + 2.1t dt} 0 -> 6) = 14.4m
+|            |				14.4 = (integrate-dt {29.7 - 1.8t dt} 6 -> T)
+|            |
+|            |				14.4 = ([29.7t - 0.9t^2] 6 -> T)
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+| SUVAT REMI |	::
+|            |		SUVAT ::
+|            |			S -> displacement     , m
+|            |			U -> initial velocity , ms^-1
+|            |			V -> final velocity   , ms^-1
+|            |			A -> acceleration     , ms^-2
+|            |			T -> time             , s
+|            |		The velocity at time t is given by v = u + at [PROVE] ::
+|            |			v = (integrate-dt {a dt}) = at + c = u + at
+|            |			S = (integrate-dt {v dt}) = (integrate-dt {u + at dt})
+|            |				= S = ut + (1/2)at^2
+|            |
+|            |
+

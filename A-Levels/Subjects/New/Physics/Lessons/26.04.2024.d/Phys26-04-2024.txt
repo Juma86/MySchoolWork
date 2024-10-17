@@ -1,0 +1,101 @@
+====================================================================================================
+| 26.04.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Retrieval  |	::
+|            |
+|            |		1) What is the formula describing double slit defraction?
+|            |			w = (lambda)D/s
+|            |
+|            |		2) If you increase the wavelength of light what effect will it have on what
+|            |		   you see on the screen?
+|            |			the gap will get wider
+|            |
+|            |		3) What effect will increasing the distance between the slits have on the
+|            |		   pattern you see on the screen?
+|            |			the gap will get slimmer
+|            |
+|            |		4) What effect will halving the distance to the screen have on the pattern
+|            |		   that you see on it?
+|            |			the gap will get slimmer
+|            |
+|            |		5) What is the formula for single slit defraction?
+|            |			W = 2(lambda)D/a -> WHERE a is width of single slit
+|            |
+|            |		6) List the key differences between the patterns you observe in double
+|            |		   slit defraction versus single slit defraction
+|            |
+|            |		[[[ A PRACTICAL HAPPENED FOR THE REST OF THE LESSON ]]]
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+

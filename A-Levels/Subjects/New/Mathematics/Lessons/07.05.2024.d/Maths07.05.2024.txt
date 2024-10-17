@@ -1,0 +1,108 @@
+====================================================================================================
+| 07.05.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Questions  |	::
+|            |
+|            |		1) A small ball is thrown straight downwards from a window 4.6m above
+|            |		   ground, with an initial velocity of 1.2ms^-1. Air resistance
+|            |		   can be ignored.
+|            |
+|            |		   Use g = 9.8ms^-2, giving you final answer to an appropriate
+|            |		   degree of accuracy
+|            |
+|            |		   How long does it take for the ball to reach the ground?
+|            |
+|            |		   How would your answer change if air resistance were included?
+|            |
+|            |			a) S = 4.6, U = 1.2, A = 9.8, t = ?
+|            |				?=> 
+|            |
+|            |		2) A stone is thrown upwards, with a velocity of 6ms^-1, from a platform
+|            |		   1.2m above the ground
+|            |
+|            |		   use g = 10ms^-2, giving your final answers to a suitable degree of
+|            |		   accuracy
+|            |
+|            |		   a) Find the velocity of the stone when it hits the ground
+|            |			a = -10, s = -1.2, u = 6, v = +- (sqrt { 6^2 + 2 * -10 * -1.2 })
+|            |			v = +-(sqrt {60}) = traveling down to the ground, -(sqrt {60})
+|            |			-(sqrt {60}) =~= 8 ms^-1
+|            |		   b) Find it's greatest height above the ground
+|            |			max Y of ( -4.9^2 + 6 + 1.2 ) = 3.03... =~= 3 m
+|            |
+|            |			a = -10, u = 6, v = 0, s = ?
+|            |
+|            |			v^2 = u^2 + 2as ?=> s = 
+|            |
+|            |
+|            |		   c) Find how long it takes the stone to reach the highest points
+|            |
+|            |		   d) Find how long it spends falling
+|            |
+| Exercises  |	::
+|            |
+|            |				#~[[[ Book 17A ]]]~#
+|            |		3) In this question use g=10ms^-2, giving your answers to an approproiate
+|            |		   degree of accuracy
+|            |
+|            |		   a stone is dropped from rest from a height of 40m Find the
+|            |		   velocity as it hits the ground and the length of time for which
+|            |		   it is in motion
+|            |
+|            |			S = 40, u = 0, v = ?, a = 10, t = ?
+|            |
+|            |			V^2 = u^2 + 2as ?=> (sqrt { 2 * 10 * 40 }) = 30ms^-1
+|            |
+|            |			S = 40, u = 0, V = 28.28, a = 10, t = ?
+|            |
+|            |			v = u + at ?=> t = (v-u)/a ?=> 28.28 / 10 =3s
+|            |
+|            |		4) In this question use g = 9.81 ms^-2, giving you final answer to
+|            |		   an appropriate degree of accuracy
+|            |
+|            |		   a ball is thrown vertically upwards from ground level with a speed
+|            |		   of 18.5ms^-1
+|            |
+|            |			a) Assuming that air resistance can be ignored, find:
+|            |			   i) How long the ball takes to reach the height of 15m
+|            |				s = 15, u = 18.5, v = ?, a = -9.81, t = ?
+|            |				s = ut + (1/2)at^2
+|            |
+|            |
+| Questions  |	::
+|            |
+|            |		1) A toy rocket with an engine starts from rest at ground level and moves
+|            |		   vertically upwards with an acceleration of 3.6ms^-2
+|            |
+|            |		   After 3 seconds the engine is turned off and the rocket moves freely
+|            |		   under gravity
+|            |
+|            |			a) Find the greatest height reached by the rocket
+|            |				s = ?, u = 0, v = ? a = 3.6, t = 3
+|            |
+|            |				v = u + at ?=> v + 0 + 3.6 * 3 = 10.8ms^-1
+|            |
+|            |				S = ut + (1/2)at^2 = (1/2)3.6 * 9 = 16.2m
+|            |
+|            |				V^2 = u^2 + 2as ?=> 0 = 10.8^2 + 2 * -9.8 * s
+|            |				S = 10.8^2 / (2 * -9.8) = -5.95 (ignore negative)
+|            |				S = 5.95
+|            |
+|            |				S(total) = 5.95 + 16.2 = 22.15m
+|            |
+|            |			b) Find the total time the rocket spends in the air
+|            |				first seg = 3, second seg = 1.101, third seg = 
+|            |
+|            |				S = 5.95, u = 10.8, v = 0, a = -9.81, t = ?
+|            |
+|            |				V = U + at ?=> t = (v-u)/a = (-10.8) / -9.81 = 1.101s
+|            |
+|            |				S = 22.15, u = 0, v = ?, a = 9.81, t = ?
+|            |
+|            |				S = ut + (1/2)at^2 ?=> 4.905t^2 + 0t -22.15 = +- 2.1250
+|            |				ignore negative
+|            |
+|            |
+|            |				3 + 1.101 + 2.1250 = 6.226 secs???
+====================================================================================================

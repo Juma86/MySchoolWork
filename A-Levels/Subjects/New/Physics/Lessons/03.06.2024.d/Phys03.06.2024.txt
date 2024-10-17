@@ -1,0 +1,100 @@
+====================================================================================================
+| 03.06.2024 | Lessons - Physics                                                        [COMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) a) speed is a scalar and velocity is a vector
+|            |		   b) acceleration the derivative of an equation for velocity against
+|            |		      time therefor vector
+|            |
+|            |		2) a)  .1ms^-2
+|            |		   b) -.7ms^-2
+|            |		   c) - 5ms^-2
+|            |
+|            |		3) a)    .2N
+|            |		   b) - 1.4N
+|            |             c) -10  N
+|            |
+|            |
+| Worksheet  |	::
+|            |
+|            |		DONE ON PAPER
+|            |
+| Notes      |	::
+|            |
+|            |		as a small mass orbits a big mass you get centripetal force
+|            |		centripetal acceleration is a force that pulls the small mass toward the
+|            |		big mass although it is accelerating toward the mass it will not get
+|            |		closer to it, the small mass will just stay in a circular motion instead
+|            |
+| Board Q's  |	::
+|            |
+|            |		1) 1/3600 * (Pi) Rad
+|            |
+|            |		2) 1/30 * (Pi) Rad
+|            |
+|            |		3) 2 * (Pi) Rad
+|            |
+|            |
+|            |	Linear Velocity (Tangential Velocity) :: v = 2*(pi)*r / t
+|            |
+|            |	Angular velocity :: (omega) = (theta) / (t)
+|            |
+|            |	Linear Velocity = Angular Velocity * radius
+|            |
+|            |		1) a) 12/(2*.4*(Pi)) = 4.7746 
+|            |		   b) 
+|            |
+|            |	Centripetal Accleration :: v^2 / r OR (omega)^2 * r
+|            |	Centripetal Force = ma ?=> F = mv^2/r OR m(omega)^2r
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

@@ -1,0 +1,100 @@
+====================================================================================================
+| 05.03.2024 | Work - Young's Double slit                                               [COMPLETE] |
+====================================================================================================
+|            |
+| Question   |	::
+|            |
+|            |		1)
+|            |
+|            |			a) #~[[[ REF. 0x00C4 ]]]~#
+|            |
+|            |			b) i) Coherent sources imply 2 sources with an equal phase
+|            |			      difference
+|            |
+|            |			  ii) Since both beams of light are coming from the same source
+|            |			      they must have the same phase difference
+|            |
+|            |			 iii) Since the light acts like a wave here, when the waves
+|            |			      interact they superimpose, when they superimpose, the
+|            |			      magnitude of each wave is summed for any given point
+|            |			      which doubles the brightness of that area, thus causing
+|            |			      a bright fringe which decays to a node where the summed
+|            |			      magnitude is 0
+|            |
+|            |			c) i) w = dS/(lambda) where d = 0.004m and (lambda) = .000000405m
+|            |			      and w = 0.00005m
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

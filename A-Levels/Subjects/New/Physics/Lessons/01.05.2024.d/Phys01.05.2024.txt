@@ -1,0 +1,100 @@
+====================================================================================================
+| 01.05.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) What is the formula describing diffraction at double slits	::
+|            |			w = (lambda)D/S
+|            |		2) What formulae describe diffraction at a single slit or obstacle	::
+|            |			W = 2(lambda)D/a && W=2w
+|            |		3) What are the main differences in what you observe for diffraction of
+|            |		   light by double slits compared to a single slit	::
+|            |			single slit has a brighter fringe and double has dots instead
+|            |			of lines
+|            |		4) How is a diffraction rating similar / different to the other two	::
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

@@ -1,0 +1,100 @@
+====================================================================================================
+| 14.10.2024 | Lesson - Physics - Gravity Review                                        [COMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) A gravitational field is a force field that has an attractive force that
+|            |			depreciates exponentially with distance
+|            |
+|            |		2) Newton's law of gravitation can be boiled down to the following equation:
+|            |			F = GM(1)M(2)/R(2-1)^2
+|            |
+|            |			aka: The force between 2 masses is directly proportional to the
+|            |				product of the masses and inversely proportional to the
+|            |				square of the seperation of the centre of mass of the 2
+|            |				masses
+|            |
+| Worksheet  |	::
+|            |
+|            |		1) a) i) R=2GM/C^2 ?=> 2 * (6.7 * 10^-11) * (6.0 * 10^24) / (3.0 * 10^8)^2
+|            |				= 0.0089333333... m =~= 8.9mm
+|            |		     ii) M=VD ?=> (6.0*10^24)/(0.009^3*(Pi)*(4/3))
+|            |				= 2*10^30 kg m^-3
+|            |		   b) i) A scientific hypothesis is a theory that should be backed by
+|            |				reality but is only backed by equations (???)
+|            |		     ii) He discovered that the predictions held up in reality by going to
+|            |				south america to test the hypothesis
+|            |		   c) A new space observatory on the moon would allow for much easier
+|            |				photography of space due to the lack if atmosphere, it
+|            |				would be a very big progression for the entirety of
+|            |				mankind, but helping people in poorer countries is also a
+|            |				very noble thing to do, although in just a few years that
+|            |				progress will be invisible as the funds will have been
+|            |				dried up on consumables and such
+|            |		2) a) i) gravitational field strength at a point in a gravitational field
+|            |				is the amount of unit attractive force applied to an
+|            |				object per unit mass
+|            |		     ii) N kg^-1
+|            |		   b) i) 9R ti es the  nass
+|            |		     ii) no
+|            |		3) a) a geo-stationary orbit has the property of always being in the same
+|            |			longitude and latitude relative to the ground
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

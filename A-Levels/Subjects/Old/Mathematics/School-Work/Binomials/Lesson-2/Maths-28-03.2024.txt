@@ -1,0 +1,55 @@
+###			Mathematics [ Thursday the 28th of March 2024 ] Binomials ::: { Incomplete - Complete }
+
+Starter ::
+	If X ~ B(20, 0.4) =>
+		a) P(     X  =  8) = 18.0%
+		b) P(     X <=  8) = 59.6%
+		c) P(     X >=  8) = 58.4%
+		d) P(6 <= X <= 15) = 87.4%
+			P(X <= 15) = .9996829689
+			P(X <=  5) = .1255989727
+
+	if X ~ B(10, p) & P(X=6) = 4P(X=4) ?=> Find the possible values of p =>
+		(choose {10,6}) * p^6 * (1-p)^4 = 4 * (choose {10,4}) * p^4 * (1-p)^6
+			210 * p^6 * (1-p)^4 = 4 * 210 * p^4 * (1-p)^6
+			p^6 * (1-p)^4 = 4 * p^4 * (1-p)^6
+
+			p^2 * (1-p)^-2 -4 = 0 OR p=0
+			p^2 = 4(1-p)^2 OR p=1
+			p^2 = 4 - 8p + 4p^2
+			3p^2 - 8p + 4 = 0
+			p = 2/3 or 2 WHEN solved as a quadratic
+				BUT 0 < p < 1 ?=> p != 2
+			THEREFOR => ANS = 0, 1, 2/3
+
+Questions ::
+	1) A multiple choice test has 20 questions with 4 answers,
+	   A student guesses the answer to every question, what is the chance of
+	   The student getting more than half marks?                             =>
+		X ~ B(20, 1/4) & P(X >= 10) = 1-.986135583 = .01384417
+			P(X <= 10) = .986135583
+	
+	Work-Book Page.479 Qs [3,7,8,11->17] ::
+		3) a) X ~ B(20,.7) & P(X >= 16) = 1-.8929131955 = .1070868045 ||| 10.7%
+			P(X <= 15) = .8929131955
+
+		   b) X ~ B(5,.35) & P(X  = 3) = .181146875 ||| 18.1%
+
+		   c) X ~ B(5,.50) & P(X <= 3) = 1-.5 = .5 ||| 50%
+			P(X <= 2) = .5
+
+		7) .8% of people have a cold virus at any instant, in 1 day a doctor sees 80 patients =>
+		  a) probability of 2 having virus =>
+			X ~ B(80, 0.008) & P(X  = 2) = .1080880008 ||| 10.8%
+		  b) probability of 3 or more having virus =>
+			X ~ B(80, 0.008) & P(X >= 3) = 1-.9733392892 = .0266607108 = 2.7%
+				P(X <= 2) = .9733392892
+		  c) The chance of people contracting the virus is -
+		     independent of others with the virus already  .
+Equations ::
+	(choose {n,r})(p^r)((1-p)^(n-r))
+
+
+
+
+.986135583

@@ -1,0 +1,100 @@
+====================================================================================================
+| 04.09.2024 | Physics                                                                  [COMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	:: What is the key term that is being described?
+|            |
+|            |		1) angular velocity
+|            |
+|            |		2) Centripetal acceleration
+|            |
+|            |		3) Centripetal force
+|            |
+|            |		4) rad
+|            |
+|            |		5) Resonance
+|            |
+|            |		6) SHM
+|            |
+|            |		7) Underdamping
+|            |
+|            |		8) Critical damping
+|            |
+|            |		9) Reproducable
+|            |
+|            |		X) Resolution
+|            |
+| Retrieval  |	::
+|            |
+|            |		1) Density is the ratio of mass to volume
+|            |
+|            |		2) calculate the mass of an object, calculate the volume (eureka jar) div
+|            |
+|            |		3) More precise scales, Weigh the water with precise scales
+|            |
+|            |		4) The lowest significant figure is it's resolution
+|            |
+|            |		5) The mean +/- half of the range
+|            |
+|            |		6) Sum the uncertantied of each
+|            |
+|            |		7) Multiply/divide  the uncertainties of each
+|            |
+|            |		8) n * % uncertainty
+|            |
+| Practical  |	::
+|            |
+|            |		Weigh marble, measure voume of marble with eureka can and then divide
+|            |		the mass by the volume to calculate the density
+|            |
+|            |		Marble weight: .14639kg +/- 0.000005kg
+|            |		Marble volume: .00255 *.00254 * .00257 = .00001664589m^3
+|            |			+/- 3.89% + 3.92% + 3.94% = 11.75% = +/- 0.00000195589208M^3
+|            |
+|            |		Marble density = .14639 / .01664589 = 8794 kgm^-3
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

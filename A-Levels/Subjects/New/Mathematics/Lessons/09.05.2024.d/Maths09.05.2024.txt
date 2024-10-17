@@ -1,0 +1,130 @@
+====================================================================================================
+| 09.05.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) y = 3*e^(2x)
+|            |			find dy/dx when y = 10
+|            |
+|            |			y' = 6e^(2*x) = 6 * (ln {  })
+|            |
+|            |			10 = 3 * e^(2x) = ln(10/3)/2 = x = 0.6019864022
+|            |
+|            |			6*e^(2*0.6...) = 20
+|            |
+|            |			OR 3*e^(2*x) -> 6*e^(2*x) ?=> 10 -> 20
+|            |
+| Questions  |	::
+|            |
+|            |		1) A consumer report claimed that more than 25% of visitors to a theme
+|            |		   park were dissatisfied with the catering facilities provided
+|            |
+|            |		   in a survey, 375 visitors who had used the catering facilities were
+|            |		   interviewed independently, and 108 of them stated that they were
+|            |		   dissatisfied with the catering facilities provided
+|            |
+|            |			a) Test, at the 2% level of significance, the consumer report's
+|            |			   claim
+|            |
+|            |				let p be the probability a customer is dissatisfied
+|            |				let x be the number of dissatisfied customers in a sample
+|            |				      of 375
+|            |
+|            |				H(0): p = .25
+|            |				H(1): p > .25 - 1 tailed test
+|            |
+|            |				if H(0) is true X~B(375, .25)
+|            |
+|            |				p(x >= 108) = 5.2141%
+|            |
+|            |				Since p > significance level, H(0) can't be rejected
+|            |
+|            |				There is insufficient evidence that more than 25%
+|            |				of visitors were dissatisfied with the catering
+|            |				facilities
+|            |
+|            |			b) state an assumption about the 375 visitors that was necessary
+|            |			   in order for the hypothesis test in part(a) to be valid
+|            |
+|            |				it must have been a random sample
+|            |
+|            |		2) write down the alternative hypothesis for each test, defining the
+|            |		   meaning of any parameters
+|            |
+|            |			a) i) Daniel wants to test wether the proportion of footballers
+|            |			      at his school is higher than 60%
+|            |
+|            |				alternative: p > .6
+|            |				x is number of footballers in population of school
+|            |				p is chance of someone liking football at school
+|            |
+|            |			  ii) Elsa wants to find out whether the proportion of households
+|            |			      with a pet is higher than 1 in 3
+|            |
+|            |				alternative: p > .33...
+|            |				x is number of households with pets per 3
+|            |				p is chance of a household having pets
+|            |
+|            |			b) i) The proportion of faulty components produced by a machine
+|            |			      was 6%. The manager wants to check wether this decreased
+|            |			      following a service
+|            |
+|            |				alternative: p > .06
+|            |				x is number of machines failed in population
+|            |				p is chance of failed machine in population
+|            |
+|            |
+|            |		3) It it is known that, in the UK, 63% of households own at least one car.
+|            |		   David believes that, in his city car ownership is lower than this. He
+|            |		   uses a hypothesis test, based on the binomial distributions to confirm
+|            |		   this
+|            |
+|            |			a) State suitable null and alternative hypothesis for this test
+|            |
+|            |				H(0) : p = .63
+|            |				H(1) : p < .63
+|            |
+|            |			b) David surveys a random sample of 50 households in his
+|            |			   neighbourhood and finds that 29 of them own at least 1 car
+|            |
+|            |			   Use this data to test David's hypothesis at the 10%
+|            |			   significance level. State your conclusion clearly
+|            |
+|            |				let p be the probability of a household owning at
+|            |					least 1 car
+|            |				let x be the amount of households that own at least
+|            |					1 car in a sample of 50
+|            |
+|            |				H(0) : p = .63
+|            |				H(1) : p < .63 1-tailed test
+|            |
+|            |				if H(0) is true, X ~ B(50, .63)
+|            |
+|            |				p(x >= 26) = 1 - .2764 = .7236
+|            |
+|            |				72.36% > 10% so H(0) can not be rejected
+|            |
+|            |				There is insufficient evidence to suggest that
+|            |				the percentage of car ownership is lower in David's
+|            |				city
+|            |
+|            |		4) The 2011 census found that 68% of 16-19 year olds in a particular town
+|            |		   attended a Vi-Form College. In 2015 a sample of 60 teenagers in this
+|            |		   age range were surveyed and it was found that 46 of them attended a
+|            |		   Vi-Form College
+|            |
+|            |		   Is there evidence at the 5% level to suggest that
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

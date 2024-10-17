@@ -1,0 +1,42 @@
+			Phys { 26th of March 2024 } GCSE Recap Of Waves [ Incomplete - complete ]
+
+
+Explanation ::
+	A wave is a transfer of energy
+
+Definitions ::
+	Transverse    : A transverse wave is a wave where the particulates move -
+	                tangentially or purpendicular to the transfer of energy .
+
+	Longitudinal  : A longitudinal wave is a wave where the peaks and troughs -
+	                are parallel to the transfer of energy                    .
+
+	Rest position : The rest position is the organisation of particles -
+			ot fields when no wave is present                  .
+
+	Displacement  : The distance that a certain point in the medium has moved -
+			from it's rest position                                   .
+
+	Peak          : The peak is the highest point on a wave -
+	                above the rest position                 .
+
+	Trough        : The trough is the lowest point on a wave -
+			below the rest position                  .
+
+	Amplitude     : Amplitude is the maximum displacement of a point -
+			on a wave from it's rest position                .
+
+	Wavelength    : Wavelength is the distance covered -
+			by a full cycle of a wave          .
+
+	Time period   : The time it takes for a full cycle -
+			of a wave to take place            .
+
+	Frequency      : Frequency is the amount of times per second           -
+			the same part of a wave cycle passes a given position .
+
+	
+Equations ::
+	C = f(lambda) WHERE C = speed of wave && f = Frequency && (lambda) = WaveLength
+	T = 1/f       WHERE T = Time period   && f = Frequency
+	f = 1/T       WHERE f = Frequency     && T = Time Period

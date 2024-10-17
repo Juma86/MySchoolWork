@@ -1,0 +1,47 @@
+==================================================================================================================
+| 17.04.2024 | Binary Values & Logic                                                                [INCOMPLETE] |
+==================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		Computer logic is built upon on or off values using logic gates
+|            |
+|            |		We don't use more values since 2 states is the simplest to accomodate for in terms
+|            |		of complexity
+|            |
+|Definitions |	::
+|            |
+|            |		Boolean gates ::
+|            |			NOT // ¬ (~, !, -) // low -> high, high -> low
+|            |
+|            |			AND // ^ (., &)    // high, high -> high ELSE low
+|            |
+|            |			OR  // V (+, ||, |)  // 
+|            |
+|            |			XOR // V with '-' below (plus in circle, non-identity) // 
+|            |
+|            |		Fire Alarm Question ::
+|            |			A, B, C as inputs WHERE temp, activated, deactivated by fire crew RESPECTIVELY
+|            |
+|            |			D as output WHERE on
+|            |
+|            |			D = (A|B)&!C
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

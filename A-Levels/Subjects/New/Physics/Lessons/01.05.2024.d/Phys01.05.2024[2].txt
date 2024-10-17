@@ -1,0 +1,115 @@
+====================================================================================================
+| 01.05.2024 | Required-Practical (-Finding Wavelength Of A Laser-)                   [INCOMPLETE] |
+====================================================================================================
+|            |
+| Planning   |	::
+|            |
+|            |		From your resarch you are going to plan a method to collect results that
+|            |		will enable you to calculate the wavelength of light used for both
+|            |		experiments from the gradient of a suitable graph
+|            |
+| Aim        |	::
+|            |
+|            |		I am going to find out the wavelength of a monochromatic laser using
+|            |		a grating while following the appropriate safety procedures,
+|            |		i will find this out using the double slit formula w = (lambda)D/S
+|            |
+| Hypothesis |	::
+|            |
+|            |		I think that the wavelength that I calculate will be of similar value
+|            |		to the stated value on the laser if there is no error in my method
+|            |
+|Risk Assess |	::
+|            |
+|            |		The largest and sole risk in this practical is the laser beam itself
+|            |		to mitigate this risk i will ensure that the laser is handled
+|            |		appropriately and safely e.g.
+|            |			i will always point the laser downwards and away
+|            |			from any reflective surfaces
+|            |
+|            |			i will ensure that the laser is turned off when i am picking
+|            |			it up from storage
+|            |
+|            |			i will not reduce my height to the level of the laser under any
+|            |			circumstances, if i drop something i will deactivate the laser
+|            |			and point it away from my direction before picking it up
+|            |
+| Equipment  |	::
+|            |
+|            |		Retort stand, 2 Clamps to hold the laser,
+|            |		a white surface to shine the laser onto so it is more easily visible,
+|            |		a diffraction grating and a double slit grating to split laser light
+|            |		3 metre sticks for mesurement for measuring D
+|            |		vernier callipers for measring w
+|            |
+| Variables  |	::
+|            |		Independant: D
+|            |		Dependant:   w
+|            |		Control:     (lambda), s
+|            |
+| Method     |	::
+|            |
+|            |		Set up apparatus for testing, attaching the laser to the retort stand
+|            |		setting up 3 consecutive metre sticks for measuring D as it is changed, 
+|            |		set up the piece of paper at the other end of the 3 consecutive metre
+|            |		sticks within the line of fire of the laser, place the diffraction
+|            |		grating infront of the laser and make sure that the beams hit the paper
+|            |
+|            |		change D and measure w using the callipers and record each each time,
+|            |		adjusting D by regular intervals to make it easier and neater to plot onto
+|            |		a graph
+|            |
+|            |		draw a line of best fit on the graph and select multiple values that
+|            |		lie on the line of best fit and then calculate the average to ensure the
+|            |		best accuracy possible, then use the 2 values for D and w in the double
+|            |		slit formula equation to calculate a value for (lambda)
+|            |
+|            |		repeat the previous method for the Grating formula to get another value
+|            |		for (lambda) and then use the average of both values as the final
+|            |		calculation of the wavelength of the laser
+|            |
+|            |
+| Table      |	::
+|            |
+|            |		/======================================\
+|            |		|    D (M)|   w1 (M)|   w2 (M)|  wA (M)|
+|            |		|---------|---------|---------|--------|
+|            |		|   2.5   | .02322  | .02364  | .02343 |
+|            |		|---------|---------|---------|--------|
+|            |		|  2.25   | .02154  | .02058  | .02106 |
+|            |		|---------|---------|---------|--------|
+|            |		|    2    | .01880  | .01952  | .01916 |
+|            |		|---------|---------|---------|--------|
+|            |		|  1.75   | .01692  | .01660  | .01676 |
+|            |		|---------|---------|---------|--------|
+|            |		|   1.5   | .01410  | .01120* | .01410 |
+|            |		|---------|---------|---------|--------|
+|            |		|  1.25   | .01188  | .01188  | .00928 |
+|            |		|---------|---------|---------|--------|
+|            |		|    1    | .00904  | .00952  | .00928 |
+|            |		|---------|---------|---------|--------|
+|            |		|   .75   | .00680  | .00676  | .00678 |
+|            |          \======================================/
+|            |
+|            |		S not included as S is constant at .00036M
+|            |		and * indicates anomaly
+|            |
+|            |		/=======================================\
+|            |		|   D1 (M)|   D2 (M)|   01 (*)|   02 (*)|
+|            |          |---------|---------|---------|---------|
+|            |		| .27400  | .10100  | 45.310  |         |
+|            |          |---------|---------|---------|---------|
+|            |		| .41200  | .15200  | 45.483  |         |
+|            |          |---------|---------|---------|---------|
+|            |		| .55100  | .18300  | 39.176* |         |
+|            |          \=======================================/
+|            |
+|            |		* by value indicates anomaly
+|            |
+|            |		d not included as d is constant at 500/mm || .000002M
+|            |		
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

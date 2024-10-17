@@ -1,0 +1,158 @@
+====================================================================================================
+| 17.07.2024 | Practical - Physics - Pendulums                                        [INCOMPLETE] |
+====================================================================================================
+|            |
+| aims       |	:: [ You will research and plan a method for determining the gravitational field
+|            |	     strength (swing pendulum) and spring constant (spring pendulum) using a
+|            |       graphical method								 ]
+|            |
+| equipment  |	::
+|            |
+|            |		Swing pendulum	::
+|            |			Pendulum mass
+|            |			String        ( to hold pendulum mass     )
+|            |			G-Clamp       ( to hold retort stand firm )
+|            |			Retort clamps ( to hold string            )
+|            |			Stopwatch     ( to measure swing period   )
+|            |			Retort stand  ( to hold the clamps        )
+|            |
+|            |		Spring pendulum	::
+|            |			Pendulum mass
+|            |			Spring        ( to hold pendulum mass          )
+|            |			G-Clamp       ( to hold retort stand firm      )
+|            |			Retort clamps ( to hold spring                 )
+|            |			Stopwatch     ( to measure time period         )
+|            |			Retort stand  ( to hold retort clamps          )
+|            |			Set square    ( to show central point location )
+|            |
+| Risks      |	::
+|            |
+|            |		Spring hitting somebody in eye: Wear eye protection
+|            |			(e.g. goggles, helmet, safety glasses etc  )
+|            |
+|            |		Spring mass hitting feet:
+|            |			- Use a lighter mass
+|            |			- Wear feet protection
+|            |			- Avoid placing feet near drop area of mass
+|            |
+|            |		Pendulum mass detaching while on motion:
+|            |			- Attach pendulum mass well
+|            |			- Stay diligent
+|            |			- Use a strong enough (string / spring)
+|            |
+| aim        |	::
+|            |
+|            |		I am trying to calculate the spring constant of a spring and
+|            |		the vaue of g by using pendulums and the following equations:
+|            |			T = (2*Pi)*(sqrt {m/k})
+|            |			T = (2*Pi)*(sqrt {L/g})
+|            |				Where:
+|            |					T = time period
+|            |					m = mass on spring
+|            |					k = spring constant
+|            |					L = length of string
+|            |					g = gravitational constant
+|            |
+| Variables  |	::
+|            |
+|            |		Independent	::
+|            |			L (string length) -> this is the variable I can control most
+|            |				precisely and accurately
+|            |
+|            |			m (mass on end of spring) -> this is the variable I can
+|            |				control most precisely and accurately
+|            |
+|            |		Dependent	::
+|            |			T (for both string and spring) -> as the other variables change
+|            |				this is what will be affected as the subject of
+|            |				the formula
+|            |
+|            |		Control	::
+|            |			k (spring constant)        -> This shouldn't be able to be changed
+|            |			g (gravitational constant) -> This shouldn't be able to be changed
+|            |
+| methods    |	::
+|            |
+|            |		String pendulum	::
+|            |			Setup	::
+|            |				1) Set up retort stand ontop of desk
+|            |				2) Attach retort stand to desk with G-Clamp
+|            |				3) Attach Boss to retort stand
+|            |				4) Attach clamp to boss
+|            |				5) Tie a knot which allows for variable length in string
+|            |				6) Securely attach mass to to end of string
+|            |				7) Attach other end of string to clamp
+|            |				8) Attach fiducial point to either retort stand or desk
+|            |					- whichever in situation can be closest to the
+|            |					- equilibrium point of the string pendulum
+|            |
+|            |			Execution	::
+|            |				1) adjust the string to a length of string to 150mm
+|            |				2) hold mass of pendulum so string is under tension
+|            |					- at approximnately 45 degrees from
+|            |					- equalibrium point
+|            |				3) let go and let pendulum swing freely,
+|            |					- start the timer at the same time
+|            |				4) stop timer when the pendulum has changed direction
+|            |					- 10 times in the same direction that
+|            |					- you had let it go
+|            |				5) record the time and then divide it by 10 to get the
+|            |					- time taken for a single swing
+|            |				6) repeat the following steps but add 25mm until
+|            |					- a final measurement of 250mm is reached
+|            |
+|            |		||=====================================================================||
+|            |		||length (mm) | time taken-1 (s) | time taken-2 (s) | time taken-a (s) ||
+|            |		||=====================================================================||
+|            |		|| .150m      | 7.36             | 7.78             | 7.58             ||
+|            |		||=====================================================================||
+|            |		|| .175m      | 8.40             | 8.50             | 8.45             ||
+|            |		||=====================================================================||
+|            |		|| .200m      | 8.27             | 8.93             | 8.60             ||
+|            |		||=====================================================================||
+|            |		|| .225m      | 9.87             | 9.47             | 9.67             ||
+|            |		||=====================================================================||
+|            |		|| .250m      | 9.90             | 9.99             | 9.95             ||
+|            |		||=====================================================================||
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

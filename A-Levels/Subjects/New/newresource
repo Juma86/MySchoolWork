@@ -1,0 +1,19 @@
+#!/bin/python3
+
+# This program is used to make a blank template revision resource for my method of revising / formatting of revision documents.
+import sys
+
+def main(args) -> None:
+    fileDoc = str("\n").join([
+        eq:=("="*100), "| dd.mm.yyyy | Title" + ((' ' * 70) + "[STATUS] |"), eq, *(["|            |"] * 97)
+    ])
+
+    with open(args[1], "wb") as newdocfile:
+        newdocfile.write( fileDoc.encode( "UTF-8" ) )
+
+    print("Done.")
+
+if __name__ == "__main__":
+    main(sys.argv)
+
+

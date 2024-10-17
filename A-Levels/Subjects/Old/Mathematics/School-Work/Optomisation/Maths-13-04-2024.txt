@@ -1,0 +1,50 @@
+=================================================================================================================
+| 13.04.2024 | Optomisation using Derivation
+=================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		Optomisation is the process of utilising derivatives and 2nd derivatives to find
+|            |			the minimum and maximum values of a function
+|            |
+|            |		The way that this is calculated is using a derivative to find the turning point(s)
+|            |			of a function and then using the 2nd derivative to work out which turning
+|            |			point has the lowest instantaneous gradient, this point is the highest point
+|            |			of the function
+|            |
+| Questions  |	::
+|            |
+|            |		1) At time T Seconds the height of a ball above the ground in metres is given by a formula:
+|            |			h = 20t -5t^2
+|            |
+|            |			h'  = (differentiate {20t -5t^2}) 20 -10t
+|            |
+|            |			:: the graph of 20t-5t^2 is a _down_ parabola ?=>
+|            |				the max value is @ dh/dt=0
+|            |
+|            |			20 = 10t ?=> t=2 ?=> AND = 2
+|            |
+|            |			?=> ANS = 20(2)-5(2)^2 = 40 - 20 = 20 metres
+|            |
+|            |		2) A cuboid has length 4x cm, width x cm & height (3/x-5) cm
+|            |			a) show that the volume, V cm^3 is given by V = 12x - 20x^2
+|            |				volume = width * height * length ?=>
+|            |					volume (V) = 4x^2(3/x-5) cm^3
+|            |
+|            |				Expand & Simplify :
+|            |					12x - 20x^2
+|            |
+|            |			b) find the maximum volume of the cuboid
+|            |				v' = (differentiate {12 - 40x})
+|            |					cuboid will have largest volume when dx/dv is @ 0
+|            |				v is at it's maximum when x = 12/40 = 6/20 = 3/10
+|            |
+|            |				?=> ANS = 12(3/10) - 20(3/10)^2 = 3.6 - 1.8 = 1.8 cm^3
+|            |
+|            |			c) prove that your answer is a maximum value
+|            |				value is a maximum if v'' @ x < 0
+|            |
+|            |				v'' = (differentiate {12 - 40x}) = -40
+|            |
+|            |				v'' is always < 0 ?=> v @ x=.3 must be a maximum value
+=================================================================================================================

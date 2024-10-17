@@ -1,0 +1,145 @@
+====================================================================================================
+| 10.05.2024 | Lesson [COMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) p(x) = 4*x^3 - 15*x^2 - 48*x - 36
+|            |			a) polynomial division -> (x-6)(4x^2 + 9x +6) ?=> (x-6) is a factor
+|            |
+|            |			b) i) Prove the graph of y = p(x)
+|            |				4x^3 - 15x^2 - 48x - 36 =
+|            |				(x-6)(4x^2 + 9x + 6)
+|            |				b^2 -4ac = 81 - 4 * 4 * 6 = -15 ?=> no real roots
+|            |
+| Hypothesis |	::
+|            |
+|            |		Let X be the number of people prefering A in a sample of 14
+|            |		Let P be the probability of prefering A
+|            |
+|            |		H(0) : P = .5
+|            |		H(1) : P < .5 1-tailed-test
+|            |
+|            |		if H(0) is true X ~ B (14, .5)
+|            |
+|            |		P(X >= 5) = .91 > 5% ?=> insufficient evidence
+|            |
+|            |		There is insufficient evidence that bottled water is better
+|            |
+|            |
+|            |		Let X be the number of people who prefer A in a sample of 14
+|            |		Let P be the probability that people prefer A
+|            |
+|            |		H(0) : P  = .5
+|            |		H(1) : P != .5 2-tailed-test
+|            |
+|            |		if H(0) is true X~B(14, .5)
+|            |
+|            |		P(X <= 5) = .212 > 2.5% ?=> Failed to reject H(0)
+|            |
+|            |		There is insufficient evidence to suggest that there is a difference
+|            |		between tapped water and bottled water
+|            |
+|            |
+|Explanation |	::
+|            |		If you are looking for a change in the proportion rather than a specific increase
+|            |		or decrease then a 2 tailed test is used instead
+|            |
+|            |		The steps are exactly the same except that the p-value is compared to half of the
+|            |		significance level as the critical region will cover both ends
+|            |
+|            |
+| Hypothesis |	::
+|            |
+|            |		Let X be the number of aces served in a sample of 100
+|            |		Let P be the probability of serving an ace
+|            |
+|            |		H(0) : P =  .3
+|            |		H(1) : P != .3 2-tailed-test
+|            |
+|            |		if H(0) is true ?=> X ~ B(100, .3)
+|            |
+|            |		P(X <= 23) = 7.553% > 2.5% ?=> H(0) is failed to be rejected
+|            |
+|            |		There is insufficient evidence that Tom's ability to serve aces
+|            |		has changed
+|            |
+|            |
+|            |
+|            |		Let X be the number of supporters in a sample of 100
+|            |		Let P be the probability that somebody supports party Z
+|            |
+|            |		H(0) : P = .36
+|            |		H(1) : P != .36 2-tailed-test
+|            |
+|            |		if H(0) then X~B(100, .36)
+|            |
+|            |		P(X >= 46) = 1-.96 = .024... = 2.4% < 5% : H(0) is rejected
+|            |
+|            |		There is sufficient evidence to support that the proportion of
+|            |		voters who vote party Z have changed.
+|            |
+| Textbook   |	::
+|            |
+|            |		Rahul believes a 6-sided dice is biased so that the probability of
+|            |		rolling a 3 is smaller than 1/6. He rolls the dice 30 times
+|            |		and gets 4 3's
+|            |
+|            |		Does this provide sufficient evidence to suport Rahul's belief?
+|            |
+|            |		Let X be the number of 3's rolled in a sample of 30
+|            |		Let P be the probability of rolling a 3
+|            |
+|            |		H(0) : P = 1/6
+|            |		H(1) : P < 1/6
+|            |
+|            |		if H(0) is true then X~B(30, 1/6)
+|            |
+|            |		P(x <= 4) = 42.4338...% =~= 42.4% > 5%
+|            |
+|            |		There is insufficient evidence to support Rahul's belief
+|            |
+|            |
+|            |
+|            |		Let X be the number of A grades in a sample of 38
+|            |		Let P be the probability that an AS student achieves an A grade
+|            |
+|            |		H(0) : P = .33
+|            |		H(1) : P > .33 1-tailed-test
+|            |
+|            |		if H(0) is true then X~B(38, .33)
+|            |
+|            |		P(X >= 18) = 1-.9778561855 = 2.21438145% =~= 2.21% < 5% ?=> H(0) rejected
+|            |
+|            |		There is sufficient evidence to prove the students at the college is
+|            |		better than the national average
+|            |
+|            |
+|            |
+|            |		Let X be the number of cured cases in a sample of 50
+|            |		Let P be the probability 
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

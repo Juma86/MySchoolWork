@@ -1,0 +1,249 @@
+====================================================================================================
+| 13.05.2024 | Revision - Waves                                                       [INCOMPLETE] |
+====================================================================================================
+|            |
+|Transverse  &
+|Longitudinal|	::
+|            |
+|            |		Explanation	::
+|            |
+|            |			Waves are split into 2 common classes : Longitudinal & Transverse
+|            |
+|            |			Longitudinal waves are waves where the oscillations are parallel
+|            |			to the direction of travel of the wave - longitudinal waves can
+|            |			be diffracted but can not be polarised and can not travel in
+|            |			a vacuum. Longitudinal waves are also made up of compression and
+|            |			rarefactions
+|            |
+|            |			Transverse waves are waves where the oscillations are
+|            |			perpendicular to the direction of energy transfer - transverse
+|            |			waves can be polarised and travel fastest within a
+|            |			vacuum at a speed of 3 * 10^8 ms^-1
+|            |
+|            |			When a transverse wave is polarised it then oscillates in only
+|            |			one plane. Polarisation provides evidence for the characteristics
+|            |			of transverse waves as polarisation can only occur in waves where
+|            |			the oscillations and the transfer of energy are perpendicular
+|            |
+|            |			The superposition of 2 coherent, progressive waves travelling
+|            |			in opposing directions is considered a stationary wave.
+|            |			A stationary wave causes no net transfer of energy.
+|            |			Constructive interference occurs where 2 waves superimpose
+|            |			in phase, this is an antinode and when this occurs there is
+|            |			a maxima of amplitude.
+|            |			Destructive interference occurs where 2 waves superimpose
+|            |			entirely out of phase, this is a node and when this occurs
+|            |			there is a minima of amplitude.
+|            |
+|            |			The first harmonic is the lowest frequency at which a stationary
+|            |			wave forms, it will have 2 nodes and 1 antinode.
+|            |			The distance between adjacent (anti)nodes is 1/2(lambda).
+|            |			The following formula can be used to calculate the Nth harmonic:
+|            |			f = N/(2L) * (sqrt { T / (mew) }) -- where:
+|            |				f   = frequency,
+|            |				N   = harmonic ,
+|            |				L   = length of string
+|            |				T   = tension in string
+|            |				mew = mass per unit length
+|            |
+|Interference|	::
+|            |
+|            |		Explanation	::
+|            |
+|            |			Path difference is the difference in the distance travlled
+|            |			by two waves
+|            |
+|            |			A coherent light source has the same frequency and wavelength
+|            |			and a fixed phase difference. Lasers emit light
+|            |			that is both coherent and monochromatic. Monochromatic meaning
+|            |			there is a very small range of frequencies being produced
+|            |			typically +- 1Nm
+|            |
+|            |			A laser is typically what is used for the source if light
+|            |			in diffraction experiments as they produce a clear and well
+|            |			defined interference pattern
+|            |
+|            |			Young's double slit experiment demonstrates inteference
+|            |			of light from 2 sources. The steps are the following:
+|            |
+|            |				1)
+|            |					Shine a coherent light source through 2 slits
+|            |					about the same size as the wavelength of the
+|            |					source light so the light diffracts
+|            |
+|            |				2)
+|            |					Each slit acts as a coherent point source making
+|            |					a pattern of light and dark fringes. Light
+|            |					fringes are formed where the light meets in phase
+|            |					and inteferes constructively, this occures where
+|            |					the path difference is an integer multiple
+|            |					of (lambda) e.g. n(lambda). Dark fringes are
+|            |					formed where the light meets entirely out of
+|            |					phase and interferes destructively, this occurs
+|            |					when the path difference is an integer multiple
+|            |					of (lambda) + 1/2 of a wavelength e.g.
+|            |					(n+1/2)(lambda)
+|            |
+|            |			The formula associated with the double slit experiment is
+|            |				W = (lambda)D/s
+|            |					where w -> Fringe Spacing
+|            |					where D -> Slit distance from screen
+|            |					where s -> Slit speration
+|            |					where (lambda) -> Wavelength
+|            |
+|            |			Using white length instead of monochromatic light
+|            |			will produce wider maxima with less intense bright fringes
+|            |			the fringes will be spectra of the light making up the white
+|            |			light as all wavelengths will diffract differently
+|            |
+|Diffraction |	::
+|            |
+|            |		Explanation	::
+|            |
+|            |			Diffraction is when light spreads into what would typically
+|            |			be considered it's shadow area by bending around curves
+|            |			or apertures
+|            |
+|            |			monochromatic light can be diffracted and it's inteference
+|            |			pattern would contain one bright central fringe with other
+|            |			fringes with a tapering brightness as they move further
+|            |			from the zero order line, it is also sharper and more intense
+|            |			than the interference pattern caused by white light
+|            |
+|            |			The more slits in a diffraction grating, the more well defined
+|            |			the interference pattern will be as there are more rays of light
+|            |			making it up, for this reason a diffraction grating is more
+|            |			accurate than young's double slit for measurements involving
+|            |			wavelength or other
+|            |
+|            |			a wider slit width will cause light to diffract less and therefor
+|            |			cause a more concentrated center maximum that's brighter and
+|            |			thinner than otherwise, a longer wavelength will cause the light
+|            |			to diffract more and make the central maximum dimmer and wider
+|            |
+|            |			the zero order line is the name for the central maximum of
+|            |			the interference pattern which is double the width of all other
+|            |			maxima, the next maxima from the zero order line would be
+|            |			considered the first order line and so on and so forth
+|            |
+|            |			white light can also be used for diffraction, white light will
+|            |			disperse into a spectrum of all frequencies making it up as
+|            |			each wavelength will diffract a different amount and thus cause
+|            |			the maxima of each wavelength to appear at different locations
+|            |
+|            |			the formula associated with diffraction is the following:
+|            |				d(sin{theta})=n(lambda) where
+|            |					d      = slit speration                    ,
+|            |					theta  = angle from normal to focus maxima ,
+|            |					n      = the focus maxima                  ,
+|            |					lambda = wavelength
+|            |
+|            |			the formula may need to be derived during an exam, the derivation
+|            |				is the following:
+|            |
+|            |			1)
+|            |				Considering the first order maximum, where the path
+|            |				difference between two adjacent rays of light is one
+|            |				wavelength, name the angle between the normal to the
+|            |				grating and the focus maxima theta
+|            |
+|            |			2)
+|            |				A right angled triangle is formed with side lengths
+|            |				d & lambda, since this is a right angled triangle
+|            |				and the triangle's internal angles must sum to 180
+|            |				the top angle must be (theta) while the other must be
+|            |				90-(theta)
+|            |
+|            |			3)
+|            |				By using triginometry we can see that:
+|            |					(sin{theta}) = (lambda)/d
+|            |				as (sin{theta})= (opp/hyp)
+|            |				this can the rearrange to d(sin{theta})=(lambda)
+|            |				for the first order only
+|            |
+|            |			4)
+|            |				We know that the other maxima occur when
+|            |				the path difference between 2 rays of light
+|            |				are an integer multiple of (lambda) e.g. n
+|            |
+|            |				therefor we can now generalise the equation
+|            |				to the following:
+|            |					d(sin{theta})=n(lambda)
+|            |
+| Refraction |	::
+|            |
+|            |		Explanation	::
+|            |
+|            |			A refractive index is a property of non-opaque materials
+|            |			that measures the speed at which light travels through it
+|            |			as a ratio of the materials speed of light against
+|            |			the speed of light in vacuo; for this reason, an object's
+|            |			refrative index will not be below 1.
+|            |
+|            |			Refractive index is described by the following formula:
+|            |				n = (c-vacuo)/(c-material)
+|            |					where n is refractive index,
+|            |					where c is speed of light
+|            |
+|            |			A material having a higher refractive index is synonymous
+|            |			with being more optically dense as both imply a slower
+|            |			speed of light within the material
+|            |
+|            |			Refraction occurs when light enters a material with a different
+|            |			optical density and changes speed / direction
+|            |			if a direction change is to occur it will move either toward or
+|            |			away from the normal line depending on whether the material
+|            |			the ray of light is entering is either more optically dense or
+|            |			less optically dense; respectively
+|            |
+|            |			The equation describing refraction is named Snell's law and
+|            |			is the following:
+|            |				(n-1)(sin {(theta-1)}) = (n-2)(sin {(theta-2)})
+|            |
+|            |				where n is refractive index of each material
+|            |				where (theta-1) is the angle of incidence
+|            |				where (theta-2) is the angle of refraction
+|            |
+|            |			As the angle of incidence is increased, the angle of refraction
+|            |			will approach 90 degrees, when the angle of refraction is 90
+|            |			degrees and the light is refracted along the boundary, the angle
+|            |			of incidence has reached the critical angle (theta-c). This angle
+|            |			can be found using the following formula:
+|            |				(sin {(theta-c)}) = (n-2)/(n-1) where
+|            |					(n-1) > (n-2)
+|            |
+|            |			Total internal reflection (TIR) can occur when the angle of
+|            |			incidence is greater then the critical angle and the incidence
+|            |			refractive index (n-1) is greater than the refractive index of
+|            |			the material at the boundary (n-2)
+|            |
+|            |			A useful application of TIR is in the use of optical fibres
+|            |			where light is used to transmit information across a thin tube
+|            |			made from glass or plastic. They would have an optically
+|            |			dense core surrounded by a less optically dense cladding
+|            |			that is used for TIR and also protects the core from damage
+|            |			and prevents light from escaping the core which would cause
+|            |			information loss
+|            |
+|            |			Information loss can also be caused by the following:
+|            |
+|            |				Absorpotion - Where part of the signal's energy is
+|            |					absorbed by the fibre, thus reducing the
+|            |					amplitude of the signal and causes information
+|            |					loss
+|            |				Dispersion - This causes pulse broadening where the
+|            |					received signal is broader than the original
+|            |					transmitted signal. Broadened signals can overlap
+|            |					causing a loss of information
+|            |				There are 2 types of dispersion:
+|            |					Modal - Caused by light rays entering the fibre
+|            |					at different angles, thus causing each ray to
+|            |					take a different path to another, each taking
+|            |					different amounts of time to traverse the fibre
+|            |
+|            |					Material - Caused by using light of differing
+|            |					wavelengths, meaning light rays will travel at
+|            |					different speeds along the fibre; this can be
+|            |					avoided via the use of monochromatic light
+|            |
+====================================================================================================

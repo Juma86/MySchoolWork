@@ -1,0 +1,121 @@
+====================================================================================================
+| 17.05.2024 | Lesson                                                                 [INCOMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) sinA/8.7 = sin38/6.1 ?=> sinA = 8.7sin38/6.1
+|            |			?=> A = sin^-1(8.7sin38/6.1) ?=> A = 61.4*
+|            |				61.4<90* ?=> 180-61.4 =~= 119*
+|            |
+|            |		2)
+|            |			Let X be the number of students getting an A* in a sample of 100
+|            |			Let P be the proportion of students getting an A* out of 100
+|            |
+|            |			H(0) : P = 0.25
+|            |			H(1) : P > 0.25 - 1 tailed @ 5%
+|            |
+|            |			If H(0) is true then X~B(100, .25) - want A
+|            |
+|            |			P(X >= A) < .05
+|            |				= 1-P(X <= A-1) < .05
+|            |			P(X <= A-1) > .95 = 32 ?=> A = 33
+|            |
+|            |			Critical region is X >= 33
+|            |
+|            |		3)
+|            |			Let X be the number of people prefering A in a sample of 14
+|            |			Let P be the proportion of people pregfering A in a sample of 14
+|            |
+|            |			H(0) : P  = 0.5
+|            |			H(1) : P != 0.5 - 2 taield test @ 5%
+|            |
+|            |			want A so P(X <= A) < 2.5%
+|            |				  P(X <= 2) = .0064 <- X <= 2
+|            |				  P(X <= 3) = .0286
+|            |				A = 2
+|            |
+|            |			want B so P(X <= B-1) > 97.5%
+|            |				  P(X <= 11 ) = .9935 <- X = 11
+|            |				  P(X <= 10 ) = .9713
+|            |				B = 12
+|            |
+|            |			critical region is: X <= 2 or X >= 12
+|            |
+|            |		4)
+|            |			H(0) : P = .6 - Sample o' 50
+|            |			H(1) : P < .6 - 1 tailed @ 5%
+|            |
+|            |			If H(0) is true X~B(50, .6)
+|            |
+|            |			want A so P(X <= A) < 5%
+|            |				  P(X <= 24) = .0573
+|            |				  P(X <= 23) = .0314 <- X <= 23
+|            |
+|            |			Probability of incorrectly rejecting H(0):
+|            |				.0314 | 3.14%
+|            |
+|            |		5)
+|            |			a)
+|            |				Let X be the proportion of matches won in a sample of
+|            |					10
+|            |				Let P be the probability of winning a match
+|            |
+|            |				H(0) : P = .5
+|            |				H(1) : P > .5 - 2 tailed test @ 5%
+|            |
+|            |				if H(0) is true then X~B(10, .5)
+|            |
+|            |				P(X >= 7) = 1-P(X <= 6) = .17187... =~= 17%
+|            |					17% > 5% ?=> insufficient
+|            |
+|            |				There is insufficient evidence to suggest that Suzanne
+|            |				no longer has a skill issue
+|            |
+|            |			b)
+|            |				Let X be the proportion of matches won in a sample of
+|            |					20
+|            |				Let P be the probability of winning a match
+|            |
+|            |				H(0) : P = .5
+|            |				H(1) : P > .5 - 1 tailed test @ 10%
+|            |
+|            |				if H(0) is true then X~B(20, .5)
+|            |
+|            |				Want A so P(X <= A-1) > 90%
+|            |					  P(X <= 12 ) = .8684
+|            |					  P(X <= 13 ) = .9423 <- X >= 13
+|            |					A = 14 & A is minimum of matches
+|            |
+|            |				Critical Region:
+|            |					X >= 14
+|            |
+|Information |	::
+|            |
+|            |		[ The probability of rejecting a correct null hypothesis is the same as
+|            |		  the probability of the test statistic lying in the critical region    ]
+|            |
+| Textbook   |	::
+|            |
+|            |		4)
+|            |			a)
+|            |				Let P be the probability of solving a case
+|            |
+|            |				H(0) : P = .85
+|            |				H(1) : P > .85 - 1 tailed test
+|            |
+|            |			b)
+|            |				Let X be the number of patients cured in a sample of 180
+|            |
+|            |				If H(0) is true then X~B(180, .85)
+|            |
+|            |				
+|            |				Want A so P(X <= A-1) < 95%
+|            |					  P(X <= 160) = .946
+|            |					  P(X <= 161) = .967 <- X <= 161
+|            |					A = 162
+|            |
+|            |				Critical region:
+|            |					X >= 162
+|            |
+====================================================================================================

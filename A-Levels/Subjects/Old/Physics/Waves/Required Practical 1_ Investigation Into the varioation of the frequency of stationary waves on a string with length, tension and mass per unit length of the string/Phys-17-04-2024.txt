@@ -1,0 +1,52 @@
+==================================================================================================================
+| 17.04.2024 | Required Practical - Lesson 2                                                        [INCOMPLETE] |
+==================================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) A stationary wave requires an enclosed space hwere waves can reflect, the waves to have
+|            |			a wavelength that is a multiple of 1/2 of the distanve between edges &
+|            |			the waves to be of the same frequency
+|            |
+|            |		2) Stationary waves transfer energy as the 2 waves are only instantaneously cancelled out
+|            |
+|            |		3) if you had a 3 metre string, fixed at both ends, of mass 0.02kg, under 2N of tension
+|            |			, at what frequency would you expect the first harmonic to be produced?
+|            |				?=> ( 1 / (2*3) ) * (sqrt { 2 / (0.02 * 3) }) = 2.89 Hz
+|            |
+|            |		4) What will happen to the frequency if you double the tension? it will increase
+|            |
+|            |		5) What will happen to the frequency if the string is double as dense? it will decrease
+|            |
+| Practical  |	::
+|            |
+|            |		Every single time the length is halved, the frequency required to generate the same
+|            |			harmonic is doubled therefor all of the variables in the equation must
+|            |			remain constant -- The frequency required to generate a harmonic is inversely
+|            |			proportional to the length by a factor of 2.
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+

@@ -1,0 +1,19 @@
+=================================================================================================================
+| 13.04.2024 | Parallel Circuits and The Application of Ohm's Law                                  [INCOMPLETE] |
+=================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		The voltage in parallel circuits must be equal across every branch.
+|            |		The current within any branch of a parallel circuit is the
+|            |			potential difference of that branch over the resistance of
+|            |			that branch
+|            |
+|            |		The total current within a parallel circuit is the summed current of each branch
+|            |		The total resistance of a circuit is the reciprocal of the sum of the reciprocal
+|            |			of the current within each branch
+|            |
+|            |		The total resistance within a circuit will always be lower than that of any
+|            |			of the components within the circuit
+|            |
+=================================================================================================================

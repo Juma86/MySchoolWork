@@ -1,0 +1,44 @@
+			Physics Lesson { 22nd March, 2024 @ 0850 } [Complete -- Check in future] Stress and strain
+
+Explanation ::
+	Stress and strain are two properties that an object can partake of -
+	That explain how an object will act when a pull force is applied   .
+
+Definitions ::
+	Stress                : The applied force per unit cross-sectional area of a material     (denoted by : sigma  )    .
+	Tensile Force         : A force that pulls on an object and extends it                    (denoted by : N      )    .
+	Compressive Force     : A force that pushes on an object and compresses it                (denoted by : N      )    .
+	Strain                : The extension of an object per unit length                        (denoted by : epsilon)    .
+	Breaking Stress       : The maximum amount of stress an object can handle before breaking (denoted by : N      )    .
+	Young Modulus         : The ability of a material to withstand changes in length with added load aka stiffness also -
+	                        The gradient of the linear area on a stress against strain graph  (denoted by : E      )    .
+	Brittle               : An object that will allow for very little or no strain before reaching it's breaking stress .
+
+Units ::
+	Stress        : Pascals (Pa)
+	Strain        : Percentage / Decimal
+	Young Modulus : Pascals (Pa)
+
+Questions ::
+	1)      A metal wire supported vertically from a fixed point has a load of 92N applied to the lower end
+		The wire has cross-sectional area 0.04mm^2 and obeys hook's law
+		The length of the wire increases by 0.50%
+
+		What is the young modulus of the wire ??
+			A[4.6*10^7 ],
+			B[4.6*10^12],
+			C[4.6*10^9 ],
+			D[4.6*10^11].
+		
+		Stress = (92/(0.04*10^-6)) = 2.3*10^9 Pascals
+			|>  Multiply 0.04 by 10^-6 due to mm^2 to m^2 conversion
+
+		Young Modulus = Stress / Strain = (2.3*10^9/0.50%) = 4.6*10^11 Pascals
+		
+		Young Modulus = 4.6*10^11 Pascals
+			@:@  The answer is D
+
+Equations :
+	E       = Sigma / Epsilon WHERE: E       = Young Modulus && Sigma   = stress    && Epsilon = strain
+	Sigma   = F / A           WHERE: Sigma   = stress        && F       = force     && A       = cross-sectional area
+	Epsilon = delta-L / L     WHERE: Epsilon = strain        && delta-L = extension && L       = length

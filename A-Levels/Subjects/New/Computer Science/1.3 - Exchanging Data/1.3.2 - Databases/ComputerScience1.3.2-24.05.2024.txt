@@ -1,0 +1,100 @@
+====================================================================================================
+| 24.05.2024 | 1.3.2 - Databases                                                      [INCOMPLETE] |
+====================================================================================================
+|            |
+|Relational  &
+|Databases   |	::
+|            |
+|            |		Relational Databases -
+|            |			A relational database is a database that uses different tables
+|            |			for different entities
+|            |
+|            |			An entity is an item of interest about which information is
+|            |			stored
+|            |
+|            |		Flat files -
+|            |			A flat file database consists of a single file
+|            |
+|            |			The flat file will typically be based around a single entity and
+|            |			it's attributes
+|            |
+|            |			An attribute is a category about which data is stored
+|            |
+|            |			Flat files are typically written out in the following way:
+|            |				Entity1(Attribute1, Attribute2, Attribute3, ...)
+|            |
+|            |		Primary key -
+|            |			The unique idenitifer which is different for each object added to
+|            |			the database
+|            |
+|            |		Foreign key -
+|            |			A foreign key is the attribute which links 2 tables together
+|            |
+|            |		Secondary key -
+|            |			A secondary key is used to enably a database to be searched
+|            |			quickly
+|            |			The table can also be sorted via the secondary key
+|            |
+|            |		First normal form (1NF) -
+|            |			All attributes must be atomic (contain a single value)
+|            |
+|            |		Second normal form (2NF) -
+|            |			The database must already be in first normal form
+|            |			The database must not have any partial dependencies
+|            |
+|            |		Third normal form (3NF) -
+|            |			The database must already be in second normal form
+|            |			Contains no non-key dependencies
+|            |			 - a non key dependency is when the attribute relies on the value
+|            |			   of the primary key and nothing else
+|            |
+|            |		Indexing -
+|            |			Method used to store each record when ordered by a certain
+|            |			attribute
+|            |
+|            |			Used to look up and access data quickly
+|            |
+|            |			Primary key is automatically indexed
+|            |
+|            |		Capturing data -
+|            |			Data needs to be input to the database and there are multiple
+|            |			ways of doing this
+|            |
+|            |			The chosen input method will always depend on context
+|            |
+|            |			Data may need to be manually entered or could be entered
+|            |			automatically via something like
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+====================================================================================================

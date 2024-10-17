@@ -1,0 +1,76 @@
+==========================================================================================================================================
+| 08.04.2024 | Series & Parallel Circuits                                                                                   [INCOMPLETE] |
+==========================================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		In a series circuit the current is the same for all components
+|            |		In a parallel circuit the current is shared over each branch =>
+|            |			the total current that enters are junction must be equal to all current that leaves a junction
+|            |			the current in a junction depends on the resistance of each component within it
+|            |
+|            |		In a series circuit, the E.M.F of the power supply is shared amongst all the components in different amounts
+|            |		depending on their resistance
+|            |
+|            |		In a parallel circuit the voltage of all the components in each branch is shared equal to the PSU's E.M.F
+|            |
+|            |		If cells are connected in series the potential difference at the end of all cells is equal to the sum of each
+|            |		cell's terminal p.d.
+|            |
+|            |		If cells are connected in parallel, the total potential difference is equal to the potential difference of any
+|            |		individual cell
+|            |
+| Examples   |	::
+|            |
+|            |		1)	A circuit connects a cell to 2 ammeters (Aa and A1) in series and 2 junctions in parallel (Ja and Jb)
+|            |				Ja connects an ammeter (A3) to a filament lamp
+|            |				Jb connects the junctions in parallel (Jc and Jd) to a resistor and ammeter (Ab) in series
+|            |				Jc connects an ammeter (Ac) and a resistor in series
+|            |				Jd connects an ammeter (A2) and a filament lamp in series
+|            |
+|            |			What is the current within A(1,2&3) WHEN
+|            |				Aa = .270A
+|            |				Ab = .080A
+|            |				Ac = .027A
+|            |
+|            |			A(1) = Aa = .270A
+|            |			A(2) =      .053A
+|            |			A(3) = Aa - A(2) = .190A
+|            |
+|            |		2)	A circuit connects 3 branches in parallel (J(1,2&3)) to a 24V cell and a 2V filament lamp in series
+|            |
+|            |				Ja connects a 12V filament lamp and a resistor under a voltmeter (V1)
+|            |				Jb connects an 8V resistor to 2 filement lamps, one of which covered by a voltmeter (V2)
+|            |				Jc connects a single resistor under a voltmeter (V3)
+|            |
+|            |			What is the potential difference of V1, V2 & V3?
+|            |
+|            |				V1 = (ref. Kirchoffs 2nd law) 24 - 12 - 2 = 10V
+|            |				V2 = (24 - 8 - 2) / 2 = 7V :: Divide by 2 because 2 lamps in branch in series, split P.D.
+|            |				V3 = 24 - 2 = 22V
+|            |
+| Equations  |	::
+|            |
+|            |		Kirchhoff's 1st law:
+|            |			I(in) = I(1) + I(2) + I(3) + I(...) =>
+|            |				The currents into a junction are equal to the currents flowing out of a junction.
+|            |
+|            |			Charge in conserved on both sides of the junction
+|            |			The current is the same at all points within a seried circuit
+|            |
+|            |			In a parallel circuit, the current divides at the junctions and each branch has a difference value
+|            |
+|            |		Kirchoff's 2nd law:
+|            |			E(1) + E(2) + E(3) + E(...) = V(1) + V(2) + V(3) + V(...) =>
+|            |				The total voltages equal the total E.M.F's of the batteries
+|            |
+|            |			In a series circuit the voltage is split across all components depending on their resistance =>
+|            |				The sum of the voltages is equal to the E.M.F of the power supply
+|            |
+|            |			In a parallel circuit the voltage is constant over each closed loop =>
+|            |				The sum of the p.d.'s in each closed circuit loop is equal to the total E.M.F of the power supply
+|            |
+|            |			A closed circuit loop acts as it's own independent series circuit and each one seperates at a junction =>
+|            |				A parallel circuit is formed by 2 or more of these loops
+|            |
+==========================================================================================================================================

@@ -1,0 +1,55 @@
+====================================================================================================
+| 16.05.2024 | Homework                                                                 [COMPLETE] |
+====================================================================================================
+|            |
+| Homework   |	::
+|            |
+|            |		1)
+|            |			Let X be the proportion good first serves in a sample of 25
+|            |			Let P be the probability of a good first serve
+|            |
+|            |			H(0) : P = 0.6
+|            |			H(1) : P < 0.6 - 1 tailed test
+|            |
+|            |			If H(0) is true then X~B(25, .6)
+|            |
+|            |			P(X < 11) = 0.0343915180... =~= 3.4% < 5%
+|            |				H(0) can be rejected
+|            |
+|            |			There is sufficient evidence to suggest that the tennis player
+|            |			is making less successful first serves at the
+|            |			5% significance level
+|            |
+|            |		2)
+|            |			Let X be the proportion of people who buy 'local news'
+|            |				in a sample of 50
+|            |			Let P be the probability that someone buys 'local news'
+|            |
+|            |			H(0) : P  = .15
+|            |			H(1) : P != .15 - 2 tailed test
+|            |
+|            |			If H(0) is true then X~B(50,.15)
+|            |
+|            |			P(X <= 3 ) = .04604657889... =~= 4.6% > 2.5%
+|            |				H(0) can be rejected
+|            |
+|            |			There is insufficient evidence to suggest that the proportion
+|            |			of people who purchase 'local news' has changed
+|            |
+|            |		3)
+|            |			Let X be the proportion of cucumbers that succesfully germinate
+|            |				in a sample of 20
+|            |			Let P be the probability that a cucumber succesfully germinates
+|            |
+|            |			H(0) P = .7
+|            |			H(1) P > .7
+|            |
+|            |			If H(0) is true then X~B(20, .7)
+|            |
+|            |			P(X >= 18) = 1-P(X<17) = 1-.9645168677 = .035483... =~= 3.5% < 5%
+|            |
+|            |			There is sufficient evidence to suggest that this brand of
+|            |			cucumber seed is more likely to successfully germinate than
+|            |			the other brand
+|            |
+====================================================================================================

@@ -1,0 +1,67 @@
+==================================================================================================================
+| 13.03.2024 | Components of the CPU                                                                [INCOMPLETE] |
+==================================================================================================================
+|            |
+|Explanation |	::
+|            |
+|            |		The CPU is responsible for processing data within the computer
+|            |		It is made up of the following components:
+|            |			Arithmetic Logic Unit (ALU)
+|            |			Control Unit          (CU )
+|            |			Registers (temporary storage locations within the CPU itself) :
+|            |				Program Counter              (PC )
+|            |				Accumulator                  (ACC)
+|            |				Memory Address Register      (MAR)
+|            |				Memory Data Register         (MDR)
+|            |				Current Instruction Register (CIR)
+|            |
+|            |		The ALU performs arithmetic and logic calculations e.g. ADD & XNOR;
+|            |			it is made up of several sub-components
+|            |
+|            |		the CU is where instructions are decoded. The CU also
+|            |			controls the flow of data within the CPU
+|            |
+|            |		The PC stores the memory address of the next instruction
+|            |
+|            |		The ACC is where values are stored very temporarily after being loaded
+|            |			From memory, inputted via the user, or Resolved by the ALU
+|            |
+|            |		The MAR is where the current selected memory address to be insteracted with is stored
+|            |
+|            |		The MDR is where data/instructions are stored before being sent to memory or fetched
+|            |
+|            |		The CIR is where a instruction is loaded to from memory before being decoded to it's
+|            |			opcode and operand
+|            |
+|            |		The ALU is made up of the following components:
+|            |			Arithmetic Circuit:
+|            |				Calculates the arithmetic operations that can
+|            |				be performed by the CPU
+|            |
+|            |			Logic Circuit:
+|            |				Evaluates the logic operations that can
+|            |				be performed by the CPU
+|            |
+|            |			Registers:
+|            |				Additional to the aforementioned registers
+|            |				for ALU specific volatile data storage
+|            |
+|            |			Buses:
+|            |				Allow for the transportation of data around the ALU
+|            |				and back to other areas of the cpu that are connected to the ALU
+|            |
+|            |			Status Flags:
+|            |				Single-bit Boolean values to indicate potentially undetectable
+|            |				unpredicted behaviours within the ALU:
+|            |					Carry     Flag
+|            |					Zero      Flag
+|            |					Overflow  Flag
+|            |					Underflow Flag
+|            |					etc...
+|            |
+|            |		RAM Buses:
+|            |			Data bus   : Holds data being sent to & fro the CPU & RAM
+|            |			Address bus: Holds addresses being sent to & fro the CPU & RAM
+|            |			Control bus: Sends signals to determine whether the other buses are in read
+|            |				or write mode
+==================================================================================================================

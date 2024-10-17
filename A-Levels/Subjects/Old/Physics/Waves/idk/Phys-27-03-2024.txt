@@ -1,0 +1,75 @@
+			Physics Lesson  -- Do
+
+Angles Recap - Radians ::
+	360 degrees = 2(Pi) radians
+
+	1   degree  = 2    (Pi) / 360 radians
+	180 degrees =      (Pi)       radians
+	90  degrees = (1/2)(Pi)       radians
+	270 degrees = (3/2)(Pi)       radians
+	0   degrees = 0               radians
+
+Definitions ::
+	Phase Difference : A given point on one wave lags behind the exact same point on another wave -
+	                   This is expressed as an angle in either degrees or radians                 -
+			   1 Whole cycle behind is 360 degrees or 2(Pi) radians                       .
+
+	Polarisation     : With transverse waves the displacement is perpendicuar to the propogation... There is still a further dimension to consider :
+	                   The wave can vibrate up-down or left-right and everything in between
+
+                           Transverse waves can be polarised but longitudinal waves can not be polarised
+
+	Super Position   : When two waves meet whilst travelling through the same medium
+
+	Constructive interferance : Constructive interferance is when waves superimpose to create a larger  oscillation
+	Destructive interferance  : Destructive  interferance is when waves superimpose to create a smaller oscillation
+
+	When 2 identical waves destruct perfectly traveling in opposite directions their peak is called a      node
+	When 2 identical waves contruct perfectly traveling in opposite directions their peak is called an antinode
+
+	1st harmonic : 1 node  and 1 antinode  L =  (lambda) / 2 ?=> Fundamental harmonic
+	2nd harmonic : 2 nodes and 2 antinodes L =  (lambda)
+	3rd harmonic : 3 nodes and 3 antinodes L = 3(lambda) / 2
+
+Explanations :: 
+	Phase Differences =>
+		assuming the wave starts a cycle with an instantaneous positive gradient with an instantaneous amplitude of 0:
+			the first peak would be a 90 degree offset or a (1/2)(Pi) offset in radians.
+		where the wave next has an instantaneous amplitude of 0 with an instaneous negative gradient
+			the offset is 180 degrees or (Pi)/2 radians
+		where the wave has a trough would be 270 degrees or (3/2)(Pi) radians
+		where the wave next has an instantaneous amplitude of 0 and an instantenous positive gradient -
+			it will have a phase of 360 degrees or 0 degrees                                      .
+		
+		If 2 waves are  (Pi) radians out of phase then they will combine to form a smooth wave
+			for the period that they are passing through eachother
+		If 2 waves are 2(Pi) radians out of phase then they will combine to form a wave with a summed amplitude
+			for the period that they are passing through eachother
+
+		The concept of phase is important when we look at superposition (combining waves) & interference
+
+	Polarising Filter =>
+		A polarising filter is a filter that will only allow waves through with a certain polarisation / angle
+			When 2 polarising Filters are placed infront of eachother 90 degrees out of phase no light will get through
+
+	Malus' Law =>
+		If two polaroid filters are at an angle to eachother, only the vertical component
+				from the plane of oscillation will transmit through.
+
+	Harmonics
+
+Questions ::
+	4) a) For the waves in Figure 4, measure :
+		i)  the amplitude and the wavelength :
+			
+
+Equations ::
+	L = (1/2)n(lambda)
+
+	f = v / (lambda)
+	  = sqrt(T/(mew))/(2L)
+	  = (1/(2L))sqrt(T/(mew))
+		WHERE f = frequency && v = velocity && T = tension && (mew) = unit length
+
+	v = sqrt(T/(mew))
+		WHERE v = velocity && T = tension && (mew) = unit length

@@ -1,0 +1,44 @@
+==============================================================================================================================================================
+| 18.04.2024 |
+==============================================================================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) Write (2/5)^2t in the form e^(-kt) where k is a positive constant :: - I don't remember exponentials ~Do a recap on exponentials~
+|            |			a) (2/5)^(2t) = e^(-kt) ?=> (2/5)^2=e^-k ?=> 4/25 = e^-k ?=> k = -ln(4/25)
+|            |			b) State wether this is growth or decay ::
+|            |				(2/5)^(2t) would represent expontential Decay as the value being exponentiated is <1
+|            |			c) [[[ graph question , can't do ]]] "Sketch the graph of y = (2/5)^(2t) - 3"
+|            |
+|            |		2) N = 2000 * e^(-kt), when t = 2, N = 1200.
+|            |			a) Evaluate k ::
+|            |				k = -ln((sqrt {1200/2000}))
+|            |			b) Evaluate N when T = 6 ::
+|            |				N = 2000*e^(~-.255*6) = ~433 atoms
+|            |
+|            |		3) A dice is rolled 5 times and the number of sixes is recorded. let X be the random variable "the number of sixes rolled"
+|            |			Complete the distribution for X
+|            |
+|            |				0, 1, 2, 3, 4, 5 => .4018, .4018, .1207, .0321, .0032, .00012 RESPECTIVELY
+|            |
+|            |			Calculate the mean and variance ::
+|            |				.833 => np
+|            |				.694 => np(1-p)
+|            |
+|            |		4) X ~ B(80,.15)
+|            |
+|            |			mean = 12 broken
+|            |			vari = 10.2
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+| equations  |	::
+|            |
+|            |		IF X ~ B(n, p) THEN mean of X = np && variance = np(1-p)
+|            |
+

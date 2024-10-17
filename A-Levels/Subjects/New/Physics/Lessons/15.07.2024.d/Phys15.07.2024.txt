@@ -1,0 +1,101 @@
+====================================================================================================
+| 15.07.2024 | Physics - Lesson - Introduction To Simple Harmonic Motion                [COMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) a) 1/ (2.6 * 10^9) = 3.8*10^-10
+|            |		   b) 0.2Hz
+|            |
+|            |		2) [DNF]
+|            |
+| Lesson     |	::
+|            |
+|            |		Energy is not what causes things to happen, although a lack of energy
+|            |			can prevent something from happening
+|            |
+|            |		Acceleration is directly proportional to the negative of the
+|            |			displacement from the equalibrium
+|            |
+|            |		Amplitude is the maximum displacement from the equalibrium point
+|            |
+|            |		
+|            |	||================================================================||
+|            |	|| Swing Pos || Displacement || Velocity || Force || Acceleration ||
+|            |	||-----------||--------------||----------||-------||--------------||
+|            |	|| Max Left  || -1           || 0        || +1    || +1           ||
+|            |	||-----------||--------------||----------||-------||--------------||
+|            |	|| Central   ||  0           || +1       || 0     || 0            ||
+|            |	||-----------||--------------||----------||-------||--------------||
+|            |	|| Max Right || +1           || 0        || -1    || -1           ||
+|            |	||================================================================||
+|            |
+|            |		?=> a is directly proportional to -x
+|            |			where a is acceleration & x is displacement from the equalibrium
+|            |
+|            |	For displacement: X = A(cos {wt})
+|            |		where w = 2*(Pi)*f
+|            |		
+|            |	For velocity: V = (dx / dt) = -wA(sin {wt})
+|            |
+|            |	For Acceleration: A = -w^2*A(cos {wt})
+|            |		| A = -w^2*X
+|            |
+|            |	
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

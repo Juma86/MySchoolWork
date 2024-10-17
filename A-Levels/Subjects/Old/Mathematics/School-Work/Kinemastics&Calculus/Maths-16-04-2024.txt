@@ -1,0 +1,95 @@
+==================================================================================================================
+| 16.04.2024 | Kinematics & Calculus                                                                [INCOMPLETE] |
+==================================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) A particle moves in a straight line where v in ms^-1 has equation v=3t^2-5t
+|            |
+|            |			a) a = (differentiate {3t^2-5t}) 6t-5
+|            |
+|            |			b) Find T when a = 0 ::
+|            |				6t=5 ?=> t=5/6s
+|            |
+|            |		2) A boat moves across a pond's surface
+|            |			Velocity (v) = .9 + .16t - .06t^2
+|            |
+|            |			a) Find a when t = 2 ::
+|            |				a = (differentiate {.9+.16t-.06t^2}) .16 - .12t
+|            |
+|            |				a when t is 2 = -.08ms^-2ms^-2
+|            |
+|            |			b) Find S when t = 2 ::
+|            |				S = (integrate {.9+.16t-.06t^2}) .9t+.08t^2-.02t^3+c
+|            |				S = 0 when t = 0 ?=> c = 0
+|            |					?=> S = .9t+.08t^2-.02t^3
+|            |
+|            |				S = .9(2)+.08(2)^2-.02(2)^3
+|            |				S = 1.8 + .32 - .16 = 1.96m
+|            |
+|            |		3) A car accelerates from rest along a straight road for 5 seconds. At time t seconds, its
+|            |			acceleration, a ms^-2, is given by a = t - ( t^2 / 5 )
+|            |
+|            |			a) By integrating, find an expresion for the velocity of the car at time t ::
+|            |				v = (integrate {t - ( t^2 / 5 )}) t^2 / 2 - t^3 / 15 + c
+|            |				the car accelerates from rest the velocity at t = 0 must be 0 ?=> c = 0
+|            |				?=> v = t^2 / 2 - t^3 / 15ms^-1
+|            |
+|            |			b) find the velocity of the car at the end of the 5 second period ::
+|            |				v = t^2 / 2 - t^3 /15 = 5^2 / 2 - 5^3 / 15 = 75/6 - 50/6 = 25/6ms^-1
+|            |
+|            |			c) Find the distance travelled by the car during the 5 second period
+|            |				S = (integrate {t^2 / 2 - t^3 / 15}) t^3 / 6 - t^4 / 60 + c
+|            |				when t = 0, S = 0 ?=> c = 0 since c is beginning S
+|            |				?=> S = t^3 / 6 - t^4 / 60
+|            |
+|            |				S = 5^3 / 6 - 5^4 / 60 = 125 / 6 - 625 / 60 = 125 / 12m
+|            |
+| Questions  |	::
+|            |			[[[ TRAVEL GRAPHS ]]]
+|            |		1) [QUESTION ON BOARD]
+|            |
+|            |			a) [A SKETCH QUESTION]
+|            |
+|            |			b) Find the value of V
+|            |
+|            |				V = 12ms^-1
+|            |
+|            |			[[[ SOLVING PROBLEMS ]]]
+|            |
+|            |		INFO ::	v=0 ?=> the object is instantaneously at rest | changing direction
+|            |			a=0 ?=> the oject has reached it's maximum or minimum velocity
+|            |			s=0 ?=> the object has returned to it's starting point
+|            |
+|            |		1) A boat moves in a straight line. At t = 0 it passes a rock nad it i moving with a
+|            |			velcity of 4ms^-2. It's acceleration ams^-2 is given by equation a = 12 - 6t
+|            |
+|            |			a) find the time when the boat changes direction ::
+|            |				find t when v = 0
+|            |				v = (integrate-dt {a dt})
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |

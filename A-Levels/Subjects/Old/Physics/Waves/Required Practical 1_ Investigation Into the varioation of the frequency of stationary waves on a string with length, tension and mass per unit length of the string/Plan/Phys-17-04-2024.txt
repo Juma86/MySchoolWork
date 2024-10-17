@@ -1,0 +1,61 @@
+==================================================================================================================
+| 17.04.2024 | Required Practical: Waves & Harmonics                                                [INCOMPLETE] |
+==================================================================================================================
+|            |
+| References |	::
+|            |
+|            |		Save-My-Exams Website (as of 17.04.2024): 
+|            |			https://www.savemyexams.com/a-level/physics/aqa/17/revision-notes/3-waves/3-2-stationary-waves/3-2-4-required-practical-investigating-stationary-waves/
+|            |				usage: Recap of waves & harmonics & also basic structure for plan
+|            |
+| Dangers    |	::
+|            |
+|            |		When using electrical equipment handle it properly and don't electricute yourself
+|            |		nor damage the equipment -- Rectification: Common Sense
+|            |
+|            |		When weighing down things with weights be careful not to drop them and damage
+|            |		things or yourself -- rectification: Careful handling of heavy objects
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+|            |
+| Plan       |	::
+|            |
+|            |		Setup ::
+|            |			Connect a power supply to a signal generator that can create sine waves
+|            |			, connect the signal generator to a vibration machine attached to a length of
+|            |			string of which's density is known - the other side of this string being connected
+|            |			to a clamp connected to a retort stand that is weighted down to the desk.
+|            |			Make sure the string is under an appropriate but constant amount of tension
+|            |			so that a proper wave can be formed in it. For the length of string
+|            |			used adjust the frequency accordingly until the desired harmonic is apparent.
+|            |			Then, halving the length each time see what frequency is then required to
+|            |			generate the same harmonic measure that frequency down.
+|            |
+|            |			The relationship between the frequency and length of the cable should be inversely
+|            |			proportional.
+|            |
+|            |		Execution ::
+|            |			After turning on the signal generator and adjusting the frequency until the
+|            |			1st harmonic on the string of (L) length shows,
+|            |			the frequency was noted down as (X) Hz.
+|            |			After then adjusting the length of the string to length ((1/2)L)m
+|            |			and also adjusting the frequency so the 1st harmonic shows, the frequency
+|            |			was then noted as (2X) Hz
+|            |
+|            |			Repeat again for ((1/4)L)m of string, the frequency required
+|            |			to reach the first harmonic was ((4X)) Hz.
+|            |
+|            |			This shows that the length of string and frequency required are inversely
+|            |			proportional.
+|            |
+|            |		Conclusion ::
+|            |			The length of string and frequency of string required to cause N harmonics
+|            |			are inversely proportional.
+==================================================================================================================

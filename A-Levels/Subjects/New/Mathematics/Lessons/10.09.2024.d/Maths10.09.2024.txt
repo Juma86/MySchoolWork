@@ -1,0 +1,150 @@
+====================================================================================================
+| 10.09.2024 | Mathematics - Lesson - Proofs - Recap - 1                                [COMPLETE] |
+====================================================================================================
+|            |
+| Starter    |	::
+|            |
+|            |		1) x = 2 => x^2 = 4
+|            |
+|            |		2) n = 6
+|            |
+|            |		3) y = 2x^5 + 5x^4 + 10x^3 - 8
+|            |
+|            |			y` = 10x^4 + 20x^3 + 30x^2
+|            |
+|            |			0 = x^2*(10x^2+20x + 30)
+|            |
+|            |				Since all coefficients are positive and any
+|            |					n^2 must be positive where n is a real number
+|            |					the result must be positive.
+|            |
+|            |				This can only be 0 if x = 0, since it can not be negative
+|            |					, nor may it be any larger than 0 since
+|            |					the result would be greater than 0
+|            |
+|            |		4) for n = 0, 2^(0+2) = 4 < 3^4 
+|            |
+| Lesson     |	::
+|            |
+|            |		3) Prove that if n is even then n^2 is divisible by 4
+|            |
+|            |			let j be any number where j is an integer
+|            |			let n = 2j
+|            |			let m = n^2
+|            |
+|            |			m === n ^2 ===  (2j)^2 === 4j^2 === 4(j^2)
+|            |
+|            |			Since 4 can be factorised out, is n is even then n^2 must be
+|            |			divisible by 4
+|            |
+|            |		9) Prove that this statement: n is odd => n^2 +4n + 3 is a multiple of 4
+|            |
+|            |
+|            |
+|            |		11) Prove that all cube numbers are either multiples of 9 or within 1 of
+|            |			a multiple of 9
+|            |
+|            |				let n = 3m
+|            |				(3m)^3 = 27m^3
+|            |					= 9(3m^3))
+|            |
+|            |				let n = 3m + 1
+|            |				(3m + 1)^3 = (27m^3+18m^2+9m)
+|            |					= 9(3m^3 + 2m^2 + m)
+|            |
+|            |				let n = 3m - 1
+|            |				(3m - 1)^3 = (27m^3 - 27m^2 + 9m)
+|            |					= 9(3m^3 - 3m^2 + m)
+|            |
+|            |				Since all 3 of these have an outcome where the result
+|            |					is a factor of 9, n^3 must be a multiple of 9,
+|            |					or within 1 of a multiple of 9
+|            |
+|            |			[[[ PROOF BY CONTRADICTION ]]]
+|            |
+|            |		Q) Use proof by contradiction to prove that there are
+|            |			infinite prime nubmers
+|            |
+|            |			-> Assume that the opposite is true and prove that this
+|            |				is impossible
+|            |
+|            |			Let there be a largest prime number, P
+|            |			Let N be the product of all prime numbers up to and including P
+|            |
+|            |			N + 1 cannot be divisible by any prime <= P, therefore
+|            |			N + 1 is either prime or N + 1 is divisible by primes > P
+|            |
+|            |			Whether either of these are true, this contradicts the
+|            |				first statement
+|            |
+|            |			?=> there are an infinite number of prime numbers
+|            |
+|            |		Q) Prove that there is an infinite number of even numbers
+|            |
+|            |			Let m be the largest even number
+|            |
+|            |			Let there be a number, n, where n is any integer
+|            |
+|            |			Let m = 2n ?=> m is even
+|            |
+|            |			m + 2 = 2(n + 1) ?=> There must be an even number larger than m
+|            |
+|            |			Considering this, there can not be any largest even number
+|            |
+|            |			?=> There must be an infinite amount of even numbers
+|            |
+|            |		Q) Using the fact that if a^2 is even then so is a, prove that (sqrt {2})
+|            |			is irrational
+|            |
+|            |			Let (sqrt {2}) be rational
+|            |
+|            |			A rational number can be expressed by fraction a/b where p & q are
+|            |				co-prime integers
+|            |
+|            |			2 = p^2 / q^2
+|            |
+|            |			<=?=> p^2 = 2q^2 so if p^2 is even, p must also be even
+|            |
+|            |			Let p = 2k, so p^2 = 4k^2
+|            |
+|            |			Let 2k^2 = q^2 so if q^2 is even, q must also be even
+|            |
+|            |			if p and q are even, they share a factor of 2 which contradicts
+|            |			the first statement. ?=> (sqrt {2}) must be an irrational number
+|            |
+|            |		Q) prove that (sqrt {3}) is irrational
+|            |
+|            |			Let (sqrt {3}) be rational
+|            |
+|            |			A rational number can be expressed by a fraction p/q where p&q are
+|            |				co-prime integers
+|            |
+|            |			3 = p^2 / q^2
+|            |
+|            |			<=?=> p^2 = 3q^2, so if p^2 is a multiple of 3, so is p
+|            |
+|            |			Let 3k^2 = q^2 so if q^2 is a multiple of 3, so is q
+|            |
+|            |			If p and q are both multiples of 3, then they share a factor of 3
+|            |			Which contradicts the first statement as p and q must be co-prime
+|            |
+|            |			This shows that (sqrt {3}) must not be a rational number.
+|            |
+|            |		Q) Prove that (3-rt {2}) is irrational
+|            |
+|            |			Let (3-rt {2}) be rational
+|            |
+|            |			A rational number can be expressed by a fraction p/q where p&q are
+|            |				co-prime integers
+|            |
+|            |			2 = p^3 / q^3
+|            |
+|            |			<=?=> p^3 = 3q^3, so is p^3 = i am keeping going i ma so good at maths and i am doing maths right now and i am so good at maths did you know that i just said that i am so good at maths which implies that i am so good at maths because i can think about the numbers and all of thwe nubmers and all of the nubmers are so cool i love numbers they are so cool because no matter which number you say there will always be a nother beigger number that is buiggerthan all of the previous ones even the negative ones and i love the mfor that they are so onconsient they are really the ony hard cornertone in my life and they make me so happy because of that ad they cured my depressio not be honest i love numbers so much
+|            |
+|            |			
+|            |
+|            |
+|            |
+|            |
+|            |
+

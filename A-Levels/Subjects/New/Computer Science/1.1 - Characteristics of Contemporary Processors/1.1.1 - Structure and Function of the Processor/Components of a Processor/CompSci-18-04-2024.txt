@@ -1,0 +1,148 @@
+====================================================================================================
+| dd.mm.yyyy | Title                                                                      [STATUS] |
+====================================================================================================
+|            |
+| The ALU    |	::
+|            |
+|            |		the arithmetic logic unit does all of the arithmetic and logic calculations
+|            |		within the CPU: Add, Subtract, AND, XOR, etc.
+|            |			-- this applies for floating point, integer & boolean calculations.
+|            |
+| The CU     |	::
+|            |
+|            |		the control unit is the processor component that directs the goings-on
+|            |		throughout the rest of the CPU; it does the following:
+|            |			-- Controlling and co-ordinating the activities of the CPU
+|            |			-- Managing the flow of data from the CPU to other devices
+|            |			-- Retreiving the next instruction from memory
+|            |			-- Decoding instructions
+|            |			-- Storing any resulting data back to RAM
+|            |
+| Registers  |	::
+|            |
+|            |		Registers are very small, fast & low-latency stores of temporary data
+|            |		all of the CPU's arithmetic, logical & bitwise operations occur
+|            |		within the CPU's registers; the registers are as following:
+|            |			-- PC  - Program Counter
+|            |				?=> Holds the next instruction's address
+|            |
+|            |			-- ACC - Accumulator
+|            |				?=> Stores the results from calculations
+|            |
+|            |			-- MAR - Memory Address Register
+|            |				?=> Holds the currently selected memory address
+|            |
+|            |			-- MDR - Memory Data Register
+|            |				?=> temporary store of data to be read/written from memory
+|            |
+|            |			-- CIR - Current Instruction Register
+|            |				?=> Holds the operand & opcode of the current instruction
+|            |					being executed by the CPU
+|            |
+| Buses      |	::
+|            |
+|            |		a Bus is a set of multiple parallel wires that can connect 2 or more
+|            |		components within a CPU; there are 3 main Buses within a CPU:
+|            |			Data Bus
+|            |				?=> A bi-directional Bus used to transmit instruvctions
+|            |				    and data between locations on the CPU
+|            |
+|            |			Address Bus
+|            |				?=> A uni-directional Bus used to transmit from which
+|            |				    memory location data is to be written to or read from
+|            |
+|            |			Control Bus
+|            |				?=> A bi-directional bus used to transmit signals between
+|            |				    components both internal and external of the CPU
+|            |
+|            |				    The control bus also co-ordinates the transmission of
+|            |				    data over the data & address Busses
+|            |
+|            |				The control Signals are the following:
+|            |				 -- Bus request - shows a device is requesting the data bus
+|            |				 -- Bus grant - Shows the CPU granted access to data Bus
+|            |				 -- Memory write - data written to addressed location via
+|            |					this bus
+|            |				 -- Memory read - data read from addressed location via
+|            |					this bus
+|            |				 -- Interrupt request - shows a device is requesting
+|            |					access to the CPU
+|            |				 -- Clock - Used to synchronise operations within the CPU
+|            |
+| Assembly   |	::
+|            |
+|            |		Assembly language is a processor-specific group of mnemonics that abstract
+|            |			an instruction's machine code into a human-readable instruction
+|            |			
+|            |		each instruction from a program is made up of the opcode & operand,
+|            |			each stored within the CIR
+|            |				opcode ?=> the type of instruction to execute
+|            |				operand ?=> the data or address of data for the
+|            |					instuction to perform logic upon
+|            |
+| FDE Cycle  |	::
+|            |
+|            |		the Fetch, Decode, Execute Cycle represents the steps required to execute
+|            |			an instruction stored within the CIR
+|            |
+|            |			Fetch Phase ?=>
+|            |				Copy PC to MAR
+|            |				Instruction at MAR copied to MDR via Data Bus
+|            |				Increment PC Simultaneously
+|            |				Copy MDR to CIR
+|            |			Decode Phase ?=>
+|            |				CIR split into opcode and operand
+|            |			Execute Phase ?=>
+|            |				Decoded instruction is executed
+|            |
+|Performance |	::
+|            |
+|            |		There are 3 main factors that affect a CPU's performance at A-Level:
+|            |			Clock Speed ?=> Clock speed is determined by the system clock.
+|            |				system clock generates pulses from lo to hi and vice versa
+|            |				a clock-cycle is initiated by a rising-edge from the clock
+|            |
+|            |				Clock Speed is the time required for 1
+|            |					clock cycle to complete
+|            |
+|            |			Core Count ?=> A core is an independent Processor within the CPU
+|            |				that can execute it's own FDE cycle
+|            |
+|            |				In theory, a dual core CPU is 2x the speed but in reality
+|            |				there is latency in communication between cores and
+|            |				programs may not be able to fully utilise each core
+|            |				or utilise more than a set number of cores
+|            |
+|            |			Properties of cache memory ?=> Cache memory is the CPU's built-in
+|            |				memory and is much faster than RAM, Cache is split into
+|            |				3 tiers, L1, L2 and L3 - each tier getting larger
+|            |				in capacity but slower respectively
+|            |				L1 is typically 2-64kb and L2 is 256-2048KB
+|            |				L3 cache is very variable in size
+|            |
+|Architecture|	::
+|            |
+|            |		There are 3 main architectures found within CPUs:
+|            |			Von Neumann Architecture:
+|            |				standard components, shared memory, shared data bus
+|            |				built upon stored program concept
+|            |
+|            |				Control unit is simple and therefor cheaper to develop
+|            |
+|            |				as instructions and data are stored in the same regions
+|            |				programs can be more heavily optimised for executable size
+|            |
+|            |
+|            |
+|            |			Harvard Architecture:
+|            |				standard components, seperate memory for instructions
+|            |				and data meaning they can be read simultaneously
+|            |
+|            |				more common in embedded systems
+|            |
+|            |				useful when instructions & data have different
+|            |				read-write permissions
+|            |
+|            |				Instruction and Data regions can have different word
+|            |				sizes allowing for better space effeciency
+====================================================================================================

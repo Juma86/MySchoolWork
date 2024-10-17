@@ -1,0 +1,30 @@
+###			Mathematics Homework [ 27th of March 2024 ] Binomials :: [ Incomplete - Complete ]
+
+Work-Location :: Maths Book, Page.479 => Questions 2&4
+
+Questions ::
+	2) Given that : X ~ B(8, 0.2) Calculate the probability =>
+		a) i) P(     X  = 3) = 14.6% ||| ii) P(     X  = 4) = 04.6%
+		b) i) P(     X <= 3) = 94.3% ||| ii) P(     X <= 2) = 79.6%
+		c) i) P(     X >  3) = 05.7% ||| ii) P(     X >  4) = 01.0%
+		d) i) P(     X <  5) = 99.0% ||| ii) P(     X <  3) = 79.6%
+		e) i) P(     X >= 3) = 20.4% ||| ii) P(     X >= 1) = 83.2%
+		f) i) P(3 <  X <= 6) = 05.6% ||| ii) P(1 <= X <  4) = 77.6%
+		g) i) P(1 <  X <  5) = 48.6% ||| ii) P(2 <  X <  7) = 20.3%
+		h) i) P(3 <= X <= 7) = 20.3% ||| ii) P(2 <= X <= 5) = 49.5%
+
+	4) Given that Y ~ B (5, 0.5) Calculate the exact value of each probability =>
+		a) i) P(Y  = 1) = 0.15625 ||| ii) P(Y  = 0) = 0.03125
+		b) i) P(Y >= 1) = 0.96875 ||| ii) P(Y <= 1) = 0.18750
+		c) i) P(Y >  4) = 0.03125 ||| ii) P(Y <= 3) = 0.81250
+_________________
+|ScratchPad-Area|
+|---------------|
+|vvvvvvvvvvvvvvv|
+
+.99991552 - .9437184  = .05619712
+.9437184  - .16777216 = .77594624
+.9895936  - .50331647 = .48627713
+.99991552 - .79691776 = .20299776
+.99999744 - .79691776 = .20307968
+.99876864 - .50331647 = .49545217
